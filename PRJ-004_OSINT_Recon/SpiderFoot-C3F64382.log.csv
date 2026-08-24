@@ -1,0 +1,239 @@
+Date,Component,Type,Event,Event ID
+2026-08-18 08:18:19,sflib,STATUS,Scan [C3F64382] for '+79172812199' initiated.,2666
+2026-08-18 08:18:19,sflib,STATUS,sfp_cinsscore module loaded.,2667
+2026-08-18 08:18:19,sflib,STATUS,sfp_zoneh module loaded.,2668
+2026-08-18 08:18:19,sflib,STATUS,sfp_iban module loaded.,2669
+2026-08-18 08:18:19,sflib,STATUS,sfp_crobat_api module loaded.,2670
+2026-08-18 08:18:19,sflib,STATUS,sfp_keybase module loaded.,2671
+2026-08-18 08:18:19,sflib,STATUS,sfp_bgpview module loaded.,2672
+2026-08-18 08:18:19,sfp_dnsresolve,STATUS,Identifying aliases for specified target(s),2673
+2026-08-18 08:18:19,sflib,STATUS,sfp_dnsresolve module loaded.,2674
+2026-08-18 08:18:19,sflib,STATUS,sfp_viewdns module loaded.,2675
+2026-08-18 08:18:19,sflib,STATUS,sfp_malwarepatrol module loaded.,2676
+2026-08-18 08:18:19,sflib,STATUS,sfp_emailformat module loaded.,2677
+2026-08-18 08:18:19,sflib,STATUS,sfp_phishtank module loaded.,2678
+2026-08-18 08:18:19,sflib,STATUS,sfp_sorbs module loaded.,2679
+2026-08-18 08:18:19,sflib,STATUS,sfp_pulsedive module loaded.,2680
+2026-08-18 08:18:19,sflib,STATUS,sfp_mnemonic module loaded.,2681
+2026-08-18 08:18:19,sflib,STATUS,sfp_abstractapi module loaded.,2682
+2026-08-18 08:18:19,sflib,STATUS,sfp_whoxy module loaded.,2683
+2026-08-18 08:18:19,sflib,STATUS,sfp_bitcoin module loaded.,2684
+2026-08-18 08:18:19,sflib,STATUS,sfp_greensnow module loaded.,2685
+2026-08-18 08:18:19,sflib,STATUS,sfp_blocklistde module loaded.,2686
+2026-08-18 08:18:19,sflib,STATUS,sfp_bingsharedip module loaded.,2687
+2026-08-18 08:18:19,sflib,STATUS,sfp_grayhatwarfare module loaded.,2688
+2026-08-18 08:18:19,sflib,STATUS,sfp_coinblocker module loaded.,2689
+2026-08-18 08:18:19,sflib,STATUS,sfp_onyphe module loaded.,2690
+2026-08-18 08:18:19,sflib,STATUS,sfp_arin module loaded.,2691
+2026-08-18 08:18:19,sflib,STATUS,sfp_ipapicom module loaded.,2692
+2026-08-18 08:18:19,sflib,STATUS,sfp_reversewhois module loaded.,2693
+2026-08-18 08:18:19,sflib,STATUS,sfp_iknowwhatyoudownload module loaded.,2694
+2026-08-18 08:18:19,sflib,STATUS,sfp_openstreetmap module loaded.,2695
+2026-08-18 08:18:19,sflib,STATUS,sfp_wikileaks module loaded.,2696
+2026-08-18 08:18:19,sflib,STATUS,sfp_openbugbounty module loaded.,2697
+2026-08-18 08:18:19,sflib,STATUS,sfp_intelx module loaded.,2698
+2026-08-18 08:18:19,sflib,STATUS,sfp_metadefender module loaded.,2699
+2026-08-18 08:18:19,sflib,STATUS,sfp_ipinfo module loaded.,2700
+2026-08-18 08:18:19,sflib,STATUS,sfp_whatcms module loaded.,2701
+2026-08-18 08:18:19,sflib,STATUS,sfp_spyonweb module loaded.,2702
+2026-08-18 08:18:19,sflib,STATUS,sfp_sociallinks module loaded.,2703
+2026-08-18 08:18:19,sflib,STATUS,sfp_hosting module loaded.,2704
+2026-08-18 08:18:19,sflib,STATUS,sfp_snov module loaded.,2705
+2026-08-18 08:18:19,sflib,STATUS,sfp_botvrij module loaded.,2706
+2026-08-18 08:18:19,sflib,STATUS,sfp_customfeed module loaded.,2707
+2026-08-18 08:18:19,sflib,STATUS,sfp_trashpanda module loaded.,2708
+2026-08-18 08:18:19,sflib,STATUS,sfp_fullcontact module loaded.,2709
+2026-08-18 08:18:19,sflib,STATUS,sfp_bitcoinwhoswho module loaded.,2710
+2026-08-18 08:18:19,sflib,STATUS,sfp_dnsraw module loaded.,2711
+2026-08-18 08:18:19,sflib,STATUS,sfp_cookie module loaded.,2712
+2026-08-18 08:18:19,sflib,STATUS,sfp_fsecure_riddler module loaded.,2713
+2026-08-18 08:18:19,sflib,STATUS,sfp_clearbit module loaded.,2714
+2026-08-18 08:18:19,sflib,STATUS,sfp_instagram module loaded.,2715
+2026-08-18 08:18:19,sflib,STATUS,sfp_nameapi module loaded.,2716
+2026-08-18 08:18:19,sflib,STATUS,sfp_stackoverflow module loaded.,2717
+2026-08-18 08:18:19,sflib,STATUS,sfp_greynoise module loaded.,2718
+2026-08-18 08:18:19,sflib,STATUS,sfp_builtwith module loaded.,2719
+2026-08-18 08:18:19,sflib,STATUS,sfp_duckduckgo module loaded.,2720
+2026-08-18 08:18:19,sfp_accounts,ERROR,Unable to parse social media accounts list: Extra data: line 1 column 4 (char 3),2721
+2026-08-18 08:18:19,sflib,STATUS,sfp_accounts module loaded.,2722
+2026-08-18 08:18:19,sflib,STATUS,sfp_cybercrimetracker module loaded.,2723
+2026-08-18 08:18:19,sflib,STATUS,sfp_fortinet module loaded.,2724
+2026-08-18 08:18:19,sflib,STATUS,sfp_seon module loaded.,2725
+2026-08-18 08:18:19,sflib,STATUS,sfp_projectdiscovery module loaded.,2726
+2026-08-18 08:18:19,sflib,STATUS,sfp_dns_for_family module loaded.,2727
+2026-08-18 08:18:19,sfp_sublist3r,DEBUG,Setting up sfp_sublist3r,2728
+2026-08-18 08:18:19,sflib,STATUS,sfp_sublist3r module loaded.,2729
+2026-08-18 08:18:19,sflib,STATUS,sfp_dehashed module loaded.,2730
+2026-08-18 08:18:19,sflib,STATUS,sfp_ripe module loaded.,2731
+2026-08-18 08:18:19,sflib,STATUS,sfp_dnsgrep module loaded.,2732
+2026-08-18 08:18:19,sflib,STATUS,sfp_securitytrails module loaded.,2733
+2026-08-18 08:18:19,sflib,STATUS,sfp_webanalytics module loaded.,2734
+2026-08-18 08:18:19,sflib,STATUS,sfp_cleanbrowsing module loaded.,2735
+2026-08-18 08:18:19,sflib,STATUS,sfp_phishstats module loaded.,2736
+2026-08-18 08:18:19,sflib,STATUS,sfp_opendns module loaded.,2737
+2026-08-18 08:18:19,sflib,STATUS,sfp_debounce module loaded.,2738
+2026-08-18 08:18:19,sflib,STATUS,sfp_bitcoinabuse module loaded.,2739
+2026-08-18 08:18:19,sflib,STATUS,sfp_twilio module loaded.,2740
+2026-08-18 08:18:19,sflib,STATUS,sfp_dnsdb module loaded.,2741
+2026-08-18 08:18:19,sflib,STATUS,sfp_urlscan module loaded.,2742
+2026-08-18 08:18:19,sflib,STATUS,sfp_grep_app module loaded.,2743
+2026-08-18 08:18:19,sflib,STATUS,sfp_talosintel module loaded.,2744
+2026-08-18 08:18:19,sflib,STATUS,sfp_s3bucket module loaded.,2745
+2026-08-18 08:18:19,sflib,STATUS,sfp_c99 module loaded.,2746
+2026-08-18 08:18:19,sflib,STATUS,sfp_open_passive_dns_database module loaded.,2747
+2026-08-18 08:18:19,sflib,STATUS,sfp_commoncrawl module loaded.,2748
+2026-08-18 08:18:19,sflib,STATUS,sfp_punkspider module loaded.,2749
+2026-08-18 08:18:19,sflib,STATUS,sfp_blockchain module loaded.,2750
+2026-08-18 08:18:19,sflib,STATUS,sfp_cleantalk module loaded.,2751
+2026-08-18 08:18:19,sflib,STATUS,sfp_intfiles module loaded.,2752
+2026-08-18 08:18:19,sflib,STATUS,sfp_textmagic module loaded.,2753
+2026-08-18 08:18:19,sflib,STATUS,sfp_fraudguard module loaded.,2754
+2026-08-18 08:18:19,sflib,STATUS,sfp_creditcard module loaded.,2755
+2026-08-18 08:18:19,sflib,STATUS,sfp_alienvault module loaded.,2756
+2026-08-18 08:18:19,sflib,STATUS,sfp_neutrinoapi module loaded.,2757
+2026-08-18 08:18:19,sflib,STATUS,sfp_shodan module loaded.,2758
+2026-08-18 08:18:19,sflib,STATUS,sfp_opencorporates module loaded.,2759
+2026-08-18 08:18:19,sflib,STATUS,sfp_networksdb module loaded.,2760
+2026-08-18 08:18:19,sflib,STATUS,sfp_alienvaultiprep module loaded.,2761
+2026-08-18 08:18:19,sflib,STATUS,sfp_whois module loaded.,2762
+2026-08-18 08:18:19,sflib,STATUS,sfp_archiveorg module loaded.,2763
+2026-08-18 08:18:19,sflib,STATUS,sfp_isc module loaded.,2764
+2026-08-18 08:18:19,sflib,STATUS,sfp_robtex module loaded.,2765
+2026-08-18 08:18:19,sflib,STATUS,sfp_callername module loaded.,2766
+2026-08-18 08:18:19,sflib,STATUS,sfp_threatminer module loaded.,2767
+2026-08-18 08:18:19,sflib,STATUS,sfp_zetalytics module loaded.,2768
+2026-08-18 08:18:19,sflib,STATUS,sfp_numverify module loaded.,2769
+2026-08-18 08:18:19,sflib,STATUS,sfp_recondev module loaded.,2770
+2026-08-18 08:18:19,sflib,STATUS,sfp_spamhaus module loaded.,2771
+2026-08-18 08:18:19,sflib,STATUS,sfp_hashes module loaded.,2772
+2026-08-18 08:18:19,sflib,STATUS,sfp_ipregistry module loaded.,2773
+2026-08-18 08:18:19,sfp_dnsdumpster,DEBUG,Setting up sfp_dnsdumpster,2774
+2026-08-18 08:18:19,sflib,STATUS,sfp_dnsdumpster module loaded.,2775
+2026-08-18 08:18:19,sflib,STATUS,sfp_vxvault module loaded.,2776
+2026-08-18 08:18:19,sflib,STATUS,sfp_spamcop module loaded.,2777
+2026-08-18 08:18:19,sflib,STATUS,sfp_ipapico module loaded.,2778
+2026-08-18 08:18:19,sflib,STATUS,sfp_email module loaded.,2779
+2026-08-18 08:18:19,sflib,STATUS,sfp_crxcavator module loaded.,2780
+2026-08-18 08:18:19,sflib,STATUS,sfp_github module loaded.,2781
+2026-08-18 08:18:19,sflib,STATUS,sfp_yandexdns module loaded.,2782
+2026-08-18 08:18:19,sflib,STATUS,sfp_apple_itunes module loaded.,2783
+2026-08-18 08:18:19,sflib,STATUS,sfp_binaryedge module loaded.,2784
+2026-08-18 08:18:19,sflib,STATUS,sfp_citadel module loaded.,2785
+2026-08-18 08:18:19,sflib,STATUS,sfp_trumail module loaded.,2786
+2026-08-18 08:18:19,sflib,STATUS,sfp_etherscan module loaded.,2787
+2026-08-18 08:18:19,sflib,STATUS,sfp_psbdmp module loaded.,2788
+2026-08-18 08:18:19,sflib,STATUS,sfp_venmo module loaded.,2789
+2026-08-18 08:18:19,sflib,STATUS,sfp_phone module loaded.,2790
+2026-08-18 08:18:19,sflib,STATUS,sfp_azureblobstorage module loaded.,2791
+2026-08-18 08:18:19,sflib,STATUS,sfp_stevenblack_hosts module loaded.,2792
+2026-08-18 08:18:19,sflib,STATUS,sfp_multiproxy module loaded.,2793
+2026-08-18 08:18:19,sflib,STATUS,sfp_scylla module loaded.,2794
+2026-08-18 08:18:19,sflib,STATUS,sfp_spur module loaded.,2795
+2026-08-18 08:18:19,sflib,STATUS,sfp_crt module loaded.,2796
+2026-08-18 08:18:20,sflib,STATUS,sfp_riskiq module loaded.,2797
+2026-08-18 08:18:20,sflib,STATUS,sfp_h1nobbdde module loaded.,2798
+2026-08-18 08:18:20,sflib,STATUS,sfp_circllu module loaded.,2799
+2026-08-18 08:18:20,sflib,STATUS,sfp_googlesearch module loaded.,2800
+2026-08-18 08:18:20,sflib,STATUS,sfp_bingsearch module loaded.,2801
+2026-08-18 08:18:20,sflib,STATUS,sfp_badpackets module loaded.,2802
+2026-08-18 08:18:20,sflib,STATUS,sfp_hostio module loaded.,2803
+2026-08-18 08:18:20,sflib,STATUS,sfp_fullhunt module loaded.,2804
+2026-08-18 08:18:20,sflib,STATUS,sfp_hunter module loaded.,2805
+2026-08-18 08:18:20,sflib,STATUS,sfp_comodo module loaded.,2806
+2026-08-18 08:18:20,sflib,STATUS,sfp_pastebin module loaded.,2807
+2026-08-18 08:18:20,sflib,STATUS,sfp_whoisology module loaded.,2808
+2026-08-18 08:18:20,sflib,STATUS,sfp_slideshare module loaded.,2809
+2026-08-18 08:18:20,sflib,STATUS,sfp_haveibeenpwned module loaded.,2810
+2026-08-18 08:18:20,sflib,STATUS,sfp_xforce module loaded.,2811
+2026-08-18 08:18:20,sflib,STATUS,sfp_voipbl module loaded.,2812
+2026-08-18 08:18:20,sflib,STATUS,sfp_virustotal module loaded.,2813
+2026-08-18 08:18:20,sflib,STATUS,sfp_abuseipdb module loaded.,2814
+2026-08-18 08:18:20,sflib,STATUS,sfp_wigle module loaded.,2815
+2026-08-18 08:18:20,sflib,STATUS,sfp_hybrid_analysis module loaded.,2816
+2026-08-18 08:18:20,sflib,STATUS,sfp_pgp module loaded.,2817
+2026-08-18 08:18:20,sflib,STATUS,sfp_wikipediaedits module loaded.,2818
+2026-08-18 08:18:20,sflib,STATUS,sfp_dronebl module loaded.,2819
+2026-08-18 08:18:20,sflib,STATUS,sfp_openphish module loaded.,2820
+2026-08-18 08:18:20,sflib,STATUS,sfp_gravatar module loaded.,2821
+2026-08-18 08:18:20,sflib,STATUS,sfp_myspace module loaded.,2822
+2026-08-18 08:18:20,sflib,STATUS,sfp_emailrep module loaded.,2823
+2026-08-18 08:18:20,sflib,STATUS,sfp_flickr module loaded.,2824
+2026-08-18 08:18:20,sflib,STATUS,sfp_gleif module loaded.,2825
+2026-08-18 08:18:20,sflib,STATUS,sfp_ipqualityscore module loaded.,2826
+2026-08-18 08:18:20,sflib,STATUS,sfp_opennic module loaded.,2827
+2026-08-18 08:18:20,sflib,STATUS,sfp_leakix module loaded.,2828
+2026-08-18 08:18:20,sflib,STATUS,sfp_quad9 module loaded.,2829
+2026-08-18 08:18:20,sflib,STATUS,sfp_ipstack module loaded.,2830
+2026-08-18 08:18:20,sflib,STATUS,sfp_adblock module loaded.,2831
+2026-08-18 08:18:20,sflib,STATUS,sfp_social module loaded.,2832
+2026-08-18 08:18:20,sflib,STATUS,sfp_digitaloceanspace module loaded.,2833
+2026-08-18 08:18:20,sflib,STATUS,sfp_botscout module loaded.,2834
+2026-08-18 08:18:20,sflib,STATUS,sfp_abusech module loaded.,2835
+2026-08-18 08:18:20,sflib,STATUS,sfp_adguard_dns module loaded.,2836
+2026-08-18 08:18:20,sflib,STATUS,sfp_spyse module loaded.,2837
+2026-08-18 08:18:20,sflib,STATUS,sfp_strangeheaders module loaded.,2838
+2026-08-18 08:18:20,sflib,STATUS,sfp_focsec module loaded.,2839
+2026-08-18 08:18:20,sflib,STATUS,sfp_ethereum module loaded.,2840
+2026-08-18 08:18:20,sflib,STATUS,sfp_company module loaded.,2841
+2026-08-18 08:18:20,sflib,STATUS,sfp_googlesafebrowsing module loaded.,2842
+2026-08-18 08:18:20,sflib,STATUS,sfp_censys module loaded.,2843
+2026-08-18 08:18:20,sflib,STATUS,sfp_socialprofiles module loaded.,2844
+2026-08-18 08:18:20,sflib,STATUS,sfp_maltiverse module loaded.,2845
+2026-08-18 08:18:20,sflib,STATUS,sfp_searchcode module loaded.,2846
+2026-08-18 08:18:20,sflib,STATUS,sfp_emailcrawlr module loaded.,2847
+2026-08-18 08:18:20,sflib,STATUS,sfp_abusix module loaded.,2848
+2026-08-18 08:18:20,sflib,STATUS,sfp_webframework module loaded.,2849
+2026-08-18 08:18:20,sflib,STATUS,sfp_pageinfo module loaded.,2850
+2026-08-18 08:18:20,sflib,STATUS,sfp_twitter module loaded.,2851
+2026-08-18 08:18:20,sflib,STATUS,sfp_threatcrowd module loaded.,2852
+2026-08-18 08:18:20,sflib,STATUS,sfp_koodous module loaded.,2853
+2026-08-18 08:18:20,sflib,STATUS,sfp_certspotter module loaded.,2854
+2026-08-18 08:18:20,sflib,STATUS,sfp_googlemaps module loaded.,2855
+2026-08-18 08:18:20,sflib,STATUS,sfp_countryname module loaded.,2856
+2026-08-18 08:18:20,sflib,STATUS,sfp_errors module loaded.,2857
+2026-08-18 08:18:20,sflib,STATUS,sfp_threatfox module loaded.,2858
+2026-08-18 08:18:20,sflib,STATUS,sfp_surbl module loaded.,2859
+2026-08-18 08:18:20,sflib,STATUS,sfp_jsonwhoiscom module loaded.,2860
+2026-08-18 08:18:20,sflib,STATUS,sfp_emergingthreats module loaded.,2861
+2026-08-18 08:18:20,sflib,STATUS,sfp_names module loaded.,2862
+2026-08-18 08:18:20,sflib,STATUS,sfp_torexits module loaded.,2863
+2026-08-18 08:18:20,sflib,STATUS,sfp_cloudflaredns module loaded.,2864
+2026-08-18 08:18:20,sflib,STATUS,sfp_webserver module loaded.,2865
+2026-08-18 08:18:20,sflib,STATUS,sfp_honeypot module loaded.,2866
+2026-08-18 08:18:20,sflib,STATUS,sfp_skymem module loaded.,2867
+2026-08-18 08:18:20,sflib,STATUS,sfp_base64 module loaded.,2868
+2026-08-18 08:18:20,sflib,STATUS,sfp_googleobjectstorage module loaded.,2869
+2026-08-18 08:18:20,sflib,STATUS,sfp_uceprotect module loaded.,2870
+2026-08-18 08:18:20,sflib,STATUS,sfp__stor_db module loaded.,2871
+2026-08-18 08:18:20,sflib,STATUS,sfp__stor_stdout module loaded.,2872
+2026-08-18 08:18:20,sflib,ERROR,Please set up queues before starting module as thread,2873
+2026-08-18 08:18:20,sfp_seon,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2874
+2026-08-18 08:18:20,sfp_seon,ERROR,You enabled sfp_seon but did not set an API key!,2875
+2026-08-18 08:18:20,sfp_countryname,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2876
+2026-08-18 08:18:20,sfp_c99,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2877
+2026-08-18 08:18:20,sfp_c99,ERROR,"You enabled sfp_c99, but did not set an API key!",2878
+2026-08-18 08:18:20,sfp_twilio,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2879
+2026-08-18 08:18:20,sfp_twilio,ERROR,You enabled sfp_twilio but did not set account sid/auth token,2880
+2026-08-18 08:18:20,sfp_numverify,ERROR,You enabled sfp_numverify but did not set an API key!,2881
+2026-08-18 08:18:20,sfp_neutrinoapi,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2882
+2026-08-18 08:18:20,sfp_neutrinoapi,ERROR,You enabled sfp_neutrinoapi but did not set an API key!,2883
+2026-08-18 08:18:20,sfp_ipqualityscore,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2884
+2026-08-18 08:18:20,sfp_ipqualityscore,ERROR,You enabled sfp_ipqualityscore but did not set an API Key!,2885
+2026-08-18 08:18:20,sfp_haveibeenpwned,ERROR,You enabled sfp_haveibeenpwned but did not set an API key!,2886
+2026-08-18 08:18:20,sfp_callername,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2887
+2026-08-18 08:18:20,sfp_callername,DEBUG,Unsupported phone number: +79172812199,2888
+2026-08-18 08:18:20,sfp_textmagic,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2889
+2026-08-18 08:18:20,sfp_textmagic,ERROR,You enabled sfp_textmagic but did not set an API Username/Key!,2890
+2026-08-18 08:18:20,sfp_phone,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2891
+2026-08-18 08:18:20,sfp_countryname,DEBUG,Found country name: Russia,2892
+2026-08-18 08:18:20,sfp_phone,DEBUG,No carrier information found for +79172812199,2893
+2026-08-18 08:18:21,sfp__stor_db,DEBUG,Storing an event: ROOT,2894
+2026-08-18 08:18:21,sfp__stor_db,DEBUG,Storing an event: PHONE_NUMBER,2895
+2026-08-18 08:18:21,sfp__stor_db,DEBUG,Storing an event: COUNTRY_NAME,2896
+2026-08-18 08:18:21,sfp_abstractapi,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2897
+2026-08-18 08:18:21,sfp_abstractapi,ERROR,You enabled sfp_abstractapi but did not set any API keys!,2898
+2026-08-18 08:18:21,sfp_intelx,ERROR,You enabled sfp_intelx but did not set an API key and/or base URL!,2899
+2026-08-18 08:18:21,sfp_sociallinks,DEBUG,"Received event, PHONE_NUMBER, from SpiderFoot UI",2900
+2026-08-18 08:18:21,sfp_sociallinks,ERROR,You enabled sfp_sociallinks but did not set an API key!,2901
+2026-08-18 08:18:22,sflib,STATUS,Running 37 correlation rules.,2902
+2026-08-18 08:18:22,sflib,STATUS,Scan [C3F64382] completed.,2903

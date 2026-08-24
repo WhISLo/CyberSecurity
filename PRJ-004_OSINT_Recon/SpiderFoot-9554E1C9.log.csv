@@ -1,0 +1,988 @@
+Date,Component,Type,Event,Event ID
+2026-08-18 09:09:10,sflib,STATUS,Scan [9554E1C9] for '10.10.10.201' initiated.,25157
+2026-08-18 09:09:10,sflib,STATUS,sfp_cinsscore module loaded.,25158
+2026-08-18 09:09:10,sflib,STATUS,sfp_onionsearchengine module loaded.,25159
+2026-08-18 09:09:10,sflib,STATUS,sfp_zoneh module loaded.,25160
+2026-08-18 09:09:10,sflib,STATUS,sfp_iban module loaded.,25161
+2026-08-18 09:09:10,sflib,STATUS,sfp__stor_stdout module loaded.,25162
+2026-08-18 09:09:10,sflib,STATUS,sfp_crobat_api module loaded.,25163
+2026-08-18 09:09:10,sflib,STATUS,sfp_keybase module loaded.,25164
+2026-08-18 09:09:10,sflib,STATUS,sfp_bgpview module loaded.,25165
+2026-08-18 09:09:10,sflib,STATUS,sfp_tool_nbtscan module loaded.,25166
+2026-08-18 09:09:10,sflib,STATUS,sfp_tool_wappalyzer module loaded.,25167
+2026-08-18 09:09:10,sflib,STATUS,sfp_sslcert module loaded.,25168
+2026-08-18 09:09:10,sflib,STATUS,sfp_tool_cmseek module loaded.,25169
+2026-08-18 09:09:10,sflib,STATUS,sfp_crossref module loaded.,25170
+2026-08-18 09:09:10,sfp_dnsresolve,STATUS,Identifying aliases for specified target(s),25171
+2026-08-18 09:09:10,sflib,STATUS,sfp_dnsresolve module loaded.,25172
+2026-08-18 09:09:10,sflib,STATUS,sfp_viewdns module loaded.,25173
+2026-08-18 09:09:10,sflib,STATUS,sfp_malwarepatrol module loaded.,25174
+2026-08-18 09:09:10,sflib,STATUS,sfp_emailformat module loaded.,25175
+2026-08-18 09:09:10,sflib,STATUS,sfp_phishtank module loaded.,25176
+2026-08-18 09:09:10,sflib,STATUS,sfp_sorbs module loaded.,25177
+2026-08-18 09:09:10,sflib,STATUS,sfp_pulsedive module loaded.,25178
+2026-08-18 09:09:10,sflib,STATUS,sfp_mnemonic module loaded.,25179
+2026-08-18 09:09:10,sflib,STATUS,sfp_abstractapi module loaded.,25180
+2026-08-18 09:09:10,sflib,STATUS,sfp_whoxy module loaded.,25181
+2026-08-18 09:09:10,sflib,STATUS,sfp_bitcoin module loaded.,25182
+2026-08-18 09:09:10,sflib,STATUS,sfp_greensnow module loaded.,25183
+2026-08-18 09:09:10,sflib,STATUS,sfp_blocklistde module loaded.,25184
+2026-08-18 09:09:10,sflib,STATUS,sfp_bingsharedip module loaded.,25185
+2026-08-18 09:09:10,sflib,STATUS,sfp_grayhatwarfare module loaded.,25186
+2026-08-18 09:09:10,sflib,STATUS,sfp_coinblocker module loaded.,25187
+2026-08-18 09:09:10,sflib,STATUS,sfp_onyphe module loaded.,25188
+2026-08-18 09:09:10,sflib,STATUS,sfp_arin module loaded.,25189
+2026-08-18 09:09:10,sflib,STATUS,sfp_ipapicom module loaded.,25190
+2026-08-18 09:09:10,sflib,STATUS,sfp_reversewhois module loaded.,25191
+2026-08-18 09:09:10,sflib,STATUS,sfp__stor_db module loaded.,25192
+2026-08-18 09:09:10,sflib,STATUS,sfp_iknowwhatyoudownload module loaded.,25193
+2026-08-18 09:09:10,sflib,STATUS,sfp_openstreetmap module loaded.,25194
+2026-08-18 09:09:10,sflib,STATUS,sfp_wikileaks module loaded.,25195
+2026-08-18 09:09:10,sflib,STATUS,sfp_openbugbounty module loaded.,25196
+2026-08-18 09:09:10,sflib,STATUS,sfp_intelx module loaded.,25197
+2026-08-18 09:09:10,sflib,STATUS,sfp_metadefender module loaded.,25198
+2026-08-18 09:09:10,sflib,STATUS,sfp_ipinfo module loaded.,25199
+2026-08-18 09:09:10,sflib,STATUS,sfp_whatcms module loaded.,25200
+2026-08-18 09:09:10,sflib,STATUS,sfp_spyonweb module loaded.,25201
+2026-08-18 09:09:10,sflib,STATUS,sfp_sociallinks module loaded.,25202
+2026-08-18 09:09:10,sflib,STATUS,sfp_hosting module loaded.,25203
+2026-08-18 09:09:10,sflib,STATUS,sfp_snov module loaded.,25204
+2026-08-18 09:09:10,sflib,STATUS,sfp_botvrij module loaded.,25205
+2026-08-18 09:09:10,sflib,STATUS,sfp_customfeed module loaded.,25206
+2026-08-18 09:09:10,sflib,STATUS,sfp_trashpanda module loaded.,25207
+2026-08-18 09:09:10,sflib,STATUS,sfp_tldsearch module loaded.,25208
+2026-08-18 09:09:10,sflib,STATUS,sfp_fullcontact module loaded.,25209
+2026-08-18 09:09:10,sflib,STATUS,sfp_bitcoinwhoswho module loaded.,25210
+2026-08-18 09:09:10,sflib,STATUS,sfp_dnsraw module loaded.,25211
+2026-08-18 09:09:10,sflib,STATUS,sfp_cookie module loaded.,25212
+2026-08-18 09:09:10,sflib,STATUS,sfp_fsecure_riddler module loaded.,25213
+2026-08-18 09:09:11,sflib,STATUS,sfp_dnsbrute module loaded.,25214
+2026-08-18 09:09:11,sflib,STATUS,sfp_clearbit module loaded.,25215
+2026-08-18 09:09:11,sflib,STATUS,sfp_instagram module loaded.,25216
+2026-08-18 09:09:11,sflib,STATUS,sfp_nameapi module loaded.,25217
+2026-08-18 09:09:11,sflib,STATUS,sfp_stackoverflow module loaded.,25218
+2026-08-18 09:09:11,sflib,STATUS,sfp_greynoise module loaded.,25219
+2026-08-18 09:09:11,sflib,STATUS,sfp_builtwith module loaded.,25220
+2026-08-18 09:09:11,sflib,STATUS,sfp_duckduckgo module loaded.,25221
+2026-08-18 09:09:11,sfp_accounts,ERROR,Unable to parse social media accounts list: Extra data: line 1 column 4 (char 3),25222
+2026-08-18 09:09:11,sflib,STATUS,sfp_accounts module loaded.,25223
+2026-08-18 09:09:11,sflib,STATUS,sfp_cybercrimetracker module loaded.,25224
+2026-08-18 09:09:11,sflib,STATUS,sfp_fortinet module loaded.,25225
+2026-08-18 09:09:11,sflib,STATUS,sfp_seon module loaded.,25226
+2026-08-18 09:09:11,sflib,STATUS,sfp_projectdiscovery module loaded.,25227
+2026-08-18 09:09:11,sflib,STATUS,sfp_dns_for_family module loaded.,25228
+2026-08-18 09:09:11,sfp_sublist3r,DEBUG,Setting up sfp_sublist3r,25229
+2026-08-18 09:09:11,sflib,STATUS,sfp_sublist3r module loaded.,25230
+2026-08-18 09:09:11,sflib,STATUS,sfp_dehashed module loaded.,25231
+2026-08-18 09:09:11,sflib,STATUS,sfp_spider module loaded.,25232
+2026-08-18 09:09:11,sflib,STATUS,sfp_ripe module loaded.,25233
+2026-08-18 09:09:11,sflib,STATUS,sfp_dnsgrep module loaded.,25234
+2026-08-18 09:09:11,sflib,STATUS,sfp_securitytrails module loaded.,25235
+2026-08-18 09:09:11,sflib,STATUS,sfp_tool_snallygaster module loaded.,25236
+2026-08-18 09:09:11,sflib,STATUS,sfp_webanalytics module loaded.,25237
+2026-08-18 09:09:11,sflib,STATUS,sfp_cleanbrowsing module loaded.,25238
+2026-08-18 09:09:11,sflib,STATUS,sfp_phishstats module loaded.,25239
+2026-08-18 09:09:11,sflib,STATUS,sfp_opendns module loaded.,25240
+2026-08-18 09:09:11,sflib,STATUS,sfp_debounce module loaded.,25241
+2026-08-18 09:09:11,sflib,STATUS,sfp_bitcoinabuse module loaded.,25242
+2026-08-18 09:09:11,sflib,STATUS,sfp_twilio module loaded.,25243
+2026-08-18 09:09:11,sflib,STATUS,sfp_dnsdb module loaded.,25244
+2026-08-18 09:09:11,sflib,STATUS,sfp_urlscan module loaded.,25245
+2026-08-18 09:09:11,sflib,STATUS,sfp_grep_app module loaded.,25246
+2026-08-18 09:09:11,sflib,STATUS,sfp_talosintel module loaded.,25247
+2026-08-18 09:09:11,sflib,STATUS,sfp_s3bucket module loaded.,25248
+2026-08-18 09:09:11,sflib,STATUS,sfp_c99 module loaded.,25249
+2026-08-18 09:09:11,sflib,STATUS,sfp_open_passive_dns_database module loaded.,25250
+2026-08-18 09:09:11,sflib,STATUS,sfp_commoncrawl module loaded.,25251
+2026-08-18 09:09:11,sflib,STATUS,sfp_punkspider module loaded.,25252
+2026-08-18 09:09:11,sflib,STATUS,sfp_blockchain module loaded.,25253
+2026-08-18 09:09:11,sflib,STATUS,sfp_cleantalk module loaded.,25254
+2026-08-18 09:09:11,sflib,STATUS,sfp_intfiles module loaded.,25255
+2026-08-18 09:09:11,sflib,STATUS,sfp_textmagic module loaded.,25256
+2026-08-18 09:09:11,sflib,STATUS,sfp_fraudguard module loaded.,25257
+2026-08-18 09:09:11,sflib,STATUS,sfp_creditcard module loaded.,25258
+2026-08-18 09:09:11,sflib,STATUS,sfp_alienvault module loaded.,25259
+2026-08-18 09:09:11,sflib,STATUS,sfp_onioncity module loaded.,25260
+2026-08-18 09:09:11,sflib,STATUS,sfp_neutrinoapi module loaded.,25261
+2026-08-18 09:09:11,sflib,STATUS,sfp_shodan module loaded.,25262
+2026-08-18 09:09:11,sflib,STATUS,sfp_opencorporates module loaded.,25263
+2026-08-18 09:09:11,sflib,STATUS,sfp_torch module loaded.,25264
+2026-08-18 09:09:11,sflib,STATUS,sfp_tool_testsslsh module loaded.,25265
+2026-08-18 09:09:11,sflib,STATUS,sfp_networksdb module loaded.,25266
+2026-08-18 09:09:11,sflib,STATUS,sfp_alienvaultiprep module loaded.,25267
+2026-08-18 09:09:11,sflib,STATUS,sfp_whois module loaded.,25268
+2026-08-18 09:09:11,sflib,STATUS,sfp_archiveorg module loaded.,25269
+2026-08-18 09:09:11,sflib,STATUS,sfp_isc module loaded.,25270
+2026-08-18 09:09:11,sflib,STATUS,sfp_robtex module loaded.,25271
+2026-08-18 09:09:11,sflib,STATUS,sfp_callername module loaded.,25272
+2026-08-18 09:09:11,sflib,STATUS,sfp_threatminer module loaded.,25273
+2026-08-18 09:09:11,sflib,STATUS,sfp_zetalytics module loaded.,25274
+2026-08-18 09:09:11,sflib,STATUS,sfp_numverify module loaded.,25275
+2026-08-18 09:09:11,sflib,STATUS,sfp_recondev module loaded.,25276
+2026-08-18 09:09:11,sflib,STATUS,sfp_spamhaus module loaded.,25277
+2026-08-18 09:09:11,sflib,STATUS,sfp_hashes module loaded.,25278
+2026-08-18 09:09:11,sflib,STATUS,sfp_similar module loaded.,25279
+2026-08-18 09:09:11,sflib,STATUS,sfp_ipregistry module loaded.,25280
+2026-08-18 09:09:11,sfp_dnsdumpster,DEBUG,Setting up sfp_dnsdumpster,25281
+2026-08-18 09:09:11,sflib,STATUS,sfp_dnsdumpster module loaded.,25282
+2026-08-18 09:09:11,sflib,STATUS,sfp_dnszonexfer module loaded.,25283
+2026-08-18 09:09:11,sflib,STATUS,sfp_vxvault module loaded.,25284
+2026-08-18 09:09:11,sflib,STATUS,sfp_tool_wafw00f module loaded.,25285
+2026-08-18 09:09:11,sflib,STATUS,sfp_spamcop module loaded.,25286
+2026-08-18 09:09:11,sflib,STATUS,sfp_tool_onesixtyone module loaded.,25287
+2026-08-18 09:09:11,sflib,STATUS,sfp_ipapico module loaded.,25288
+2026-08-18 09:09:11,sflib,STATUS,sfp_email module loaded.,25289
+2026-08-18 09:09:11,sflib,STATUS,sfp_crxcavator module loaded.,25290
+2026-08-18 09:09:11,sflib,STATUS,sfp_github module loaded.,25291
+2026-08-18 09:09:11,sflib,STATUS,sfp_yandexdns module loaded.,25292
+2026-08-18 09:09:11,sflib,STATUS,sfp_tool_dnstwist module loaded.,25293
+2026-08-18 09:09:11,sflib,STATUS,sfp_apple_itunes module loaded.,25294
+2026-08-18 09:09:11,sflib,STATUS,sfp_tool_retirejs module loaded.,25295
+2026-08-18 09:09:11,sflib,STATUS,sfp_binaryedge module loaded.,25296
+2026-08-18 09:09:11,sflib,STATUS,sfp_citadel module loaded.,25297
+2026-08-18 09:09:11,sflib,STATUS,sfp_trumail module loaded.,25298
+2026-08-18 09:09:11,sflib,STATUS,sfp_etherscan module loaded.,25299
+2026-08-18 09:09:11,sflib,STATUS,sfp_psbdmp module loaded.,25300
+2026-08-18 09:09:11,sflib,STATUS,sfp_venmo module loaded.,25301
+2026-08-18 09:09:11,sflib,STATUS,sfp_phone module loaded.,25302
+2026-08-18 09:09:11,sflib,STATUS,sfp_azureblobstorage module loaded.,25303
+2026-08-18 09:09:11,sflib,STATUS,sfp_stevenblack_hosts module loaded.,25304
+2026-08-18 09:09:11,sflib,STATUS,sfp_multiproxy module loaded.,25305
+2026-08-18 09:09:11,sflib,STATUS,sfp_scylla module loaded.,25306
+2026-08-18 09:09:11,sflib,STATUS,sfp_spur module loaded.,25307
+2026-08-18 09:09:11,sflib,STATUS,sfp_crt module loaded.,25308
+2026-08-18 09:09:11,sflib,STATUS,sfp_riskiq module loaded.,25309
+2026-08-18 09:09:11,sflib,STATUS,sfp_h1nobbdde module loaded.,25310
+2026-08-18 09:09:11,sflib,STATUS,sfp_circllu module loaded.,25311
+2026-08-18 09:09:11,sflib,STATUS,sfp_hackertarget module loaded.,25312
+2026-08-18 09:09:11,sflib,STATUS,sfp_googlesearch module loaded.,25313
+2026-08-18 09:09:11,sflib,STATUS,sfp_bingsearch module loaded.,25314
+2026-08-18 09:09:11,sflib,STATUS,sfp_badpackets module loaded.,25315
+2026-08-18 09:09:11,sflib,STATUS,sfp_hostio module loaded.,25316
+2026-08-18 09:09:11,sflib,STATUS,sfp_fullhunt module loaded.,25317
+2026-08-18 09:09:12,sflib,STATUS,sfp_binstring module loaded.,25318
+2026-08-18 09:09:12,sflib,STATUS,sfp_hunter module loaded.,25319
+2026-08-18 09:09:12,sflib,STATUS,sfp_filemeta module loaded.,25320
+2026-08-18 09:09:12,sflib,STATUS,sfp_comodo module loaded.,25321
+2026-08-18 09:09:12,sflib,STATUS,sfp_pastebin module loaded.,25322
+2026-08-18 09:09:12,sflib,STATUS,sfp_whoisology module loaded.,25323
+2026-08-18 09:09:12,sflib,STATUS,sfp_slideshare module loaded.,25324
+2026-08-18 09:09:12,sflib,STATUS,sfp_haveibeenpwned module loaded.,25325
+2026-08-18 09:09:12,sflib,STATUS,sfp_xforce module loaded.,25326
+2026-08-18 09:09:12,sflib,STATUS,sfp_voipbl module loaded.,25327
+2026-08-18 09:09:12,sflib,STATUS,sfp_virustotal module loaded.,25328
+2026-08-18 09:09:12,sflib,STATUS,sfp_abuseipdb module loaded.,25329
+2026-08-18 09:09:12,sflib,STATUS,sfp_wigle module loaded.,25330
+2026-08-18 09:09:12,sflib,STATUS,sfp_hybrid_analysis module loaded.,25331
+2026-08-18 09:09:12,sflib,STATUS,sfp_portscan_tcp module loaded.,25332
+2026-08-18 09:09:12,sflib,STATUS,sfp_pgp module loaded.,25333
+2026-08-18 09:09:12,sflib,STATUS,sfp_wikipediaedits module loaded.,25334
+2026-08-18 09:09:12,sflib,STATUS,sfp_dronebl module loaded.,25335
+2026-08-18 09:09:12,sflib,STATUS,sfp_openphish module loaded.,25336
+2026-08-18 09:09:12,sflib,STATUS,sfp_dnsneighbor module loaded.,25337
+2026-08-18 09:09:12,sflib,STATUS,sfp_gravatar module loaded.,25338
+2026-08-18 09:09:12,sflib,STATUS,sfp_myspace module loaded.,25339
+2026-08-18 09:09:12,sflib,STATUS,sfp_emailrep module loaded.,25340
+2026-08-18 09:09:12,sflib,STATUS,sfp_flickr module loaded.,25341
+2026-08-18 09:09:12,sflib,STATUS,sfp_darksearch module loaded.,25342
+2026-08-18 09:09:12,sflib,STATUS,sfp_gleif module loaded.,25343
+2026-08-18 09:09:12,sflib,STATUS,sfp_ipqualityscore module loaded.,25344
+2026-08-18 09:09:12,sflib,STATUS,sfp_opennic module loaded.,25345
+2026-08-18 09:09:12,sflib,STATUS,sfp_leakix module loaded.,25346
+2026-08-18 09:09:12,sflib,STATUS,sfp_quad9 module loaded.,25347
+2026-08-18 09:09:12,sflib,STATUS,sfp_ipstack module loaded.,25348
+2026-08-18 09:09:12,sflib,STATUS,sfp_adblock module loaded.,25349
+2026-08-18 09:09:12,sflib,STATUS,sfp_social module loaded.,25350
+2026-08-18 09:09:12,sflib,STATUS,sfp_dnscommonsrv module loaded.,25351
+2026-08-18 09:09:12,sflib,STATUS,sfp_digitaloceanspace module loaded.,25352
+2026-08-18 09:09:12,sflib,STATUS,sfp_botscout module loaded.,25353
+2026-08-18 09:09:12,sflib,STATUS,sfp_abusech module loaded.,25354
+2026-08-18 09:09:12,sflib,STATUS,sfp_adguard_dns module loaded.,25355
+2026-08-18 09:09:12,sflib,STATUS,sfp_spyse module loaded.,25356
+2026-08-18 09:09:12,sflib,STATUS,sfp_ahmia module loaded.,25357
+2026-08-18 09:09:12,sflib,STATUS,sfp_strangeheaders module loaded.,25358
+2026-08-18 09:09:12,sflib,STATUS,sfp_focsec module loaded.,25359
+2026-08-18 09:09:12,sflib,STATUS,sfp_ethereum module loaded.,25360
+2026-08-18 09:09:12,sflib,STATUS,sfp_company module loaded.,25361
+2026-08-18 09:09:12,sflib,STATUS,sfp_googlesafebrowsing module loaded.,25362
+2026-08-18 09:09:12,sflib,STATUS,sfp_censys module loaded.,25363
+2026-08-18 09:09:12,sflib,STATUS,sfp_socialprofiles module loaded.,25364
+2026-08-18 09:09:12,sflib,STATUS,sfp_tool_trufflehog module loaded.,25365
+2026-08-18 09:09:12,sflib,STATUS,sfp_maltiverse module loaded.,25366
+2026-08-18 09:09:12,sflib,STATUS,sfp_searchcode module loaded.,25367
+2026-08-18 09:09:12,sflib,STATUS,sfp_emailcrawlr module loaded.,25368
+2026-08-18 09:09:12,sflib,STATUS,sfp_abusix module loaded.,25369
+2026-08-18 09:09:12,sflib,STATUS,sfp_webframework module loaded.,25370
+2026-08-18 09:09:12,sfp_subdomain_takeover,ERROR,Unable to parse subdomain takeover fingerprints list: Extra data: line 1 column 4 (char 3),25371
+2026-08-18 09:09:12,sflib,STATUS,sfp_subdomain_takeover module loaded.,25372
+2026-08-18 09:09:12,sflib,STATUS,sfp_pageinfo module loaded.,25373
+2026-08-18 09:09:12,sflib,STATUS,sfp_twitter module loaded.,25374
+2026-08-18 09:09:12,sflib,STATUS,sfp_threatcrowd module loaded.,25375
+2026-08-18 09:09:12,sflib,STATUS,sfp_koodous module loaded.,25376
+2026-08-18 09:09:12,sflib,STATUS,sfp_certspotter module loaded.,25377
+2026-08-18 09:09:12,sflib,STATUS,sfp_googlemaps module loaded.,25378
+2026-08-18 09:09:12,sflib,STATUS,sfp_countryname module loaded.,25379
+2026-08-18 09:09:12,sflib,STATUS,sfp_errors module loaded.,25380
+2026-08-18 09:09:12,sflib,STATUS,sfp_threatfox module loaded.,25381
+2026-08-18 09:09:12,sflib,STATUS,sfp_surbl module loaded.,25382
+2026-08-18 09:09:12,sflib,STATUS,sfp_jsonwhoiscom module loaded.,25383
+2026-08-18 09:09:12,sflib,STATUS,sfp_emergingthreats module loaded.,25384
+2026-08-18 09:09:12,sflib,STATUS,sfp_tool_whatweb module loaded.,25385
+2026-08-18 09:09:13,sflib,STATUS,sfp_names module loaded.,25386
+2026-08-18 09:09:13,sflib,STATUS,sfp_torexits module loaded.,25387
+2026-08-18 09:09:13,sflib,STATUS,sfp_tool_nmap module loaded.,25388
+2026-08-18 09:09:13,sflib,STATUS,sfp_cloudflaredns module loaded.,25389
+2026-08-18 09:09:13,sflib,STATUS,sfp_webserver module loaded.,25390
+2026-08-18 09:09:13,sflib,STATUS,sfp_honeypot module loaded.,25391
+2026-08-18 09:09:13,sflib,STATUS,sfp_skymem module loaded.,25392
+2026-08-18 09:09:13,sflib,STATUS,sfp_base64 module loaded.,25393
+2026-08-18 09:09:13,sflib,STATUS,sfp_tool_nuclei module loaded.,25394
+2026-08-18 09:09:13,sflib,STATUS,sfp_googleobjectstorage module loaded.,25395
+2026-08-18 09:09:13,sflib,STATUS,sfp_uceprotect module loaded.,25396
+2026-08-18 09:09:13,sflib,STATUS,sfp_junkfiles module loaded.,25397
+2026-08-18 09:09:13,sflib,STATUS,sfp__stor_db module loaded.,25398
+2026-08-18 09:09:13,sflib,STATUS,sfp__stor_stdout module loaded.,25399
+2026-08-18 09:09:13,sfp_abuseipdb,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25400
+2026-08-18 09:09:13,sfp_abuseipdb,DEBUG,Checking maliciousness of IP address 10.10.10.201 with AbuseIPDB,25401
+2026-08-18 09:09:13,sfp_dnsdb,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25402
+2026-08-18 09:09:13,sfp_dnsdb,ERROR,You enabled sfp_dnsdb but did not set an API key!,25403
+2026-08-18 09:09:13,sfp_greynoise,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25404
+2026-08-18 09:09:13,sfp_greynoise,DEBUG,Querying GreyNoise for IP: 10.10.10.201,25405
+2026-08-18 09:09:13,sflib,STATUS,"Fetching (GET): https://api.greynoise.io/v2/noise/context/10.10.10.201 (proxy=None, user-agent=greynoise-spiderfoot-v1.1.0, timeout=5, cookies=None)",25406
+2026-08-18 09:09:13,sfp_shodan,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25407
+2026-08-18 09:09:13,sflib,STATUS,"Fetching (GET): https://api.shodan.io/shodan/host/10.10.10.201?key=XXX (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25408
+2026-08-18 09:09:13,sfp_dronebl,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25409
+2026-08-18 09:09:13,sfp_dronebl,DEBUG,Checking DroneBL blacklist: 201.10.10.10.dnsbl.dronebl.org,25410
+2026-08-18 09:09:13,sflib,ERROR,Please set up queues before starting module as thread,25411
+2026-08-18 09:09:13,sfp__stor_db,DEBUG,Storing an event: ROOT,25412
+2026-08-18 09:09:13,sfp__stor_db,DEBUG,Storing an event: IP_ADDRESS,25413
+2026-08-18 09:09:13,sfp_focsec,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25414
+2026-08-18 09:09:13,sfp_focsec,ERROR,You enabled sfp_focsec but did not set an API key!,25415
+2026-08-18 09:09:13,sfp_seon,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25416
+2026-08-18 09:09:13,sfp_seon,ERROR,You enabled sfp_seon but did not set an API key!,25417
+2026-08-18 09:09:13,sfp_neutrinoapi,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25418
+2026-08-18 09:09:13,sfp_neutrinoapi,ERROR,You enabled sfp_neutrinoapi but did not set an API key!,25419
+2026-08-18 09:09:13,sfp_circllu,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25420
+2026-08-18 09:09:13,sfp_circllu,ERROR,You enabled sfp_circllu but did not set an credentials!,25421
+2026-08-18 09:09:13,sfp_ipregistry,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25422
+2026-08-18 09:09:13,sfp_ipregistry,ERROR,You enabled sfp_ipregistry but did not set an API key!,25423
+2026-08-18 09:09:13,sfp_censys,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25424
+2026-08-18 09:09:13,sfp_censys,ERROR,You enabled sfp_censys but did not set an API uid/secret!,25425
+2026-08-18 09:09:13,sfp_alienvaultiprep,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25426
+2026-08-18 09:09:13,sfp_alienvaultiprep,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with AlienVault IP Reputation Database,25427
+2026-08-18 09:09:13,sfp_c99,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25428
+2026-08-18 09:09:13,sfp_c99,ERROR,"You enabled sfp_c99, but did not set an API key!",25429
+2026-08-18 09:09:13,sfp_ipstack,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25430
+2026-08-18 09:09:13,sfp_ipstack,ERROR,You enabled sfp_ipstack but did not set an API key!,25431
+2026-08-18 09:09:13,sfp_surbl,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25432
+2026-08-18 09:09:13,sfp_surbl,DEBUG,Checking SURBL blacklist: 201.10.10.10.multi.surbl.org,25433
+2026-08-18 09:09:13,sflib,STATUS,Fetched https://api.shodan.io/shodan/host/10.10.10.201?key=XXX (52 bytes in 0.516627311706543s),25434
+2026-08-18 09:09:14,sflib,STATUS,Fetched https://api.greynoise.io/v2/noise/context/10.10.10.201 (26 bytes in 0.7190990447998047s),25435
+2026-08-18 09:09:14,sflib,STATUS,"Fetching (GET): https://api.greynoise.io/v2/riot/10.10.10.201 (proxy=None, user-agent=greynoise-spiderfoot-v1.1.0, timeout=5, cookies=None)",25436
+2026-08-18 09:09:14,sflib,STATUS,Fetched https://api.greynoise.io/v2/riot/10.10.10.201 (26 bytes in 0.6792941093444824s),25437
+2026-08-18 09:09:14,sfp_greynoise,ERROR,Greynoise API key seems to have been rejected or you have exceeded usage limits.,25438
+2026-08-18 09:09:14,sfp_emergingthreats,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25439
+2026-08-18 09:09:14,sfp_emergingthreats,DEBUG,Checking maliciousness of 10.10.10.201 with EmergingThreats.net,25440
+2026-08-18 09:09:14,sfp_threatfox,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25441
+2026-08-18 09:09:14,sflib,STATUS,"Fetching (POST): https://threatfox-api.abuse.ch/api/v1/ (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25442
+2026-08-18 09:09:14,sfp_shodan,ERROR,Error returned from SHODAN: Requires membership or higher to access,25443
+2026-08-18 09:09:14,sfp_torexits,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25444
+2026-08-18 09:09:15,sfp_tool_nmap,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25445
+2026-08-18 09:09:15,sfp_tool_nmap,ERROR,You enabled sfp_tool_nmap but did not set a path to the tool!,25446
+2026-08-18 09:09:15,sfp_honeypot,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25447
+2026-08-18 09:09:15,sfp_honeypot,ERROR,You enabled sfp_honeypot but did not set an API key!,25448
+2026-08-18 09:09:15,sfp_abusix,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25449
+2026-08-18 09:09:15,sfp_abusix,ERROR,You enabled sfp_abusix but did not set an API key!,25450
+2026-08-18 09:09:15,sfp_fraudguard,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25451
+2026-08-18 09:09:15,sfp_fraudguard,ERROR,You enabled sfp_fraudguard but did not set an API username/password!,25452
+2026-08-18 09:09:15,sfp_abusech,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25453
+2026-08-18 09:09:15,sfp_abusech,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with Abuse.ch Feodo Tracker,25454
+2026-08-18 09:09:15,sfp_abusech,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with Abuse.ch SSL Blacklist,25455
+2026-08-18 09:09:15,sfp_abusech,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with Abuse.ch URL Haus,25456
+2026-08-18 09:09:15,sfp_spur,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25457
+2026-08-18 09:09:15,sfp_spur,ERROR,You enabled sfp_spur but did not set an API key!,25458
+2026-08-18 09:09:15,sfp_googlesafebrowsing,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25459
+2026-08-18 09:09:15,sfp_googlesafebrowsing,ERROR,You enabled sfp_googlesafebrowsing but did not set an API key!,25460
+2026-08-18 09:09:15,sfp_ipapico,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25461
+2026-08-18 09:09:15,sflib,STATUS,"Fetching (GET): https://ipapi.co/10.10.10.201/json/ (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25462
+2026-08-18 09:09:15,sflib,STATUS,Fetched https://threatfox-api.abuse.ch/api/v1/ (25 bytes in 0.38065218925476074s),25463
+2026-08-18 09:09:15,sflib,STATUS,Fetched https://ipapi.co/10.10.10.201/json/ (5602 bytes in 0.31609463691711426s),25464
+2026-08-18 09:09:16,sfp_threatfox,ERROR,Unexpected reply from ThreatFox: 401,25465
+2026-08-18 09:09:16,sfp_fortinet,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25466
+2026-08-18 09:09:16,sflib,STATUS,"Fetching (GET): https://www.fortiguard.com/search?q=10.10.10.201&engine=8 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25467
+2026-08-18 09:09:16,sfp_ipapico,DEBUG,Error processing JSON response: Expecting value: line 1 column 1 (char 0),25468
+2026-08-18 09:09:16,sfp_ipapico,STATUS,No results returned from ipapi.co,25469
+2026-08-18 09:09:16,sfp_tool_nuclei,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25470
+2026-08-18 09:09:16,sfp_tool_nuclei,ERROR,You enabled sfp_tool_nuclei but did not set a path to the tool and/or templates!,25471
+2026-08-18 09:09:16,sfp_virustotal,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25472
+2026-08-18 09:09:16,sflib,STATUS,"Fetching (GET): https://www.virustotal.com/vtapi/v2/ip-address/report?ip=10.10.10.201&apikey=XXX (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25473
+2026-08-18 09:09:17,sflib,STATUS,Fetched https://www.virustotal.com/vtapi/v2/ip-address/report?ip=10.10.10.201&apikey=XXX (50975 bytes in 0.9565238952636719s),25474
+2026-08-18 09:09:18,sflib,STATUS,Fetched https://www.fortiguard.com/search?q=10.10.10.201&engine=8 (103357 bytes in 2.513273000717163s),25475
+2026-08-18 09:09:18,sfp_threatcrowd,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25476
+2026-08-18 09:09:18,sflib,STATUS,"Fetching (GET): https://www.threatcrowd.org/searchApi/v2/ip/report/?ip=10.10.10.201 (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25477
+2026-08-18 09:09:18,sflib,ERROR,Failed to connect to https://www.threatcrowd.org/searchApi/v2/ip/report/?ip=10.10.10.201,25478
+2026-08-18 09:09:18,sfp_threatcrowd,STATUS,No ThreatCrowd info found for 10.10.10.201,25479
+2026-08-18 09:09:18,sfp_voipbl,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25480
+2026-08-18 09:09:18,sfp_voipbl,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with VoIP Blacklist (VoIPBL),25481
+2026-08-18 09:09:19,sfp_maltiverse,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25482
+2026-08-18 09:09:19,sflib,STATUS,"Fetching (GET): https://api.maltiverse.com/ip/10.10.10.201 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=15, cookies=None)",25483
+2026-08-18 09:09:19,sflib,STATUS,Fetched https://api.maltiverse.com/ip/10.10.10.201 (73 bytes in 0.5367982387542725s),25484
+2026-08-18 09:09:19,sfp_maltiverse,ERROR,Bad request. 10.10.10.201 is not a valid IP Address,25485
+2026-08-18 09:09:19,sfp_hackertarget,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25486
+2026-08-18 09:09:19,sflib,STATUS,"Fetching (GET): https://api.hackertarget.com/reverseiplookup/?q=10.10.10.201 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25487
+2026-08-18 09:09:20,sflib,STATUS,Fetched https://api.hackertarget.com/reverseiplookup/?q=10.10.10.201 (33 bytes in 0.49782896041870117s),25488
+2026-08-18 09:09:20,sfp_hackertarget,DEBUG,Found 1 on 10.10.10.201,25489
+2026-08-18 09:09:20,sfp_spamhaus,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25490
+2026-08-18 09:09:20,sfp_spamhaus,DEBUG,Checking Spamhaus Zen blacklist: 201.10.10.10.zen.spamhaus.org,25491
+2026-08-18 09:09:20,sfp_spamhaus,DEBUG,10.10.10.201 found in Spamhaus Zen DNS,25492
+2026-08-18 09:09:20,sfp_spamhaus,ERROR,Spamhaus denied query via public/open resolver,25493
+2026-08-18 09:09:20,sfp_talosintel,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25494
+2026-08-18 09:09:20,sfp_talosintel,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with Talos Intelligence,25495
+2026-08-18 09:09:20,sflib,STATUS,"Fetching (GET): https://snort.org/downloads/ip-block-list (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25496
+2026-08-18 09:09:20,sflib,STATUS,Fetched https://snort.org/downloads/ip-block-list (5626 bytes in 0.2705533504486084s),25497
+2026-08-18 09:09:20,sfp_talosintel,ERROR,Unexpected HTTP response code 403 from Talos Intelligence.,25498
+2026-08-18 09:09:20,sfp_isc,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25499
+2026-08-18 09:09:20,sflib,STATUS,"Fetching (GET): https://isc.sans.edu/api/ip/10.10.10.201 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25500
+2026-08-18 09:09:21,sflib,STATUS,Fetched https://isc.sans.edu/api/ip/10.10.10.201 (571 bytes in 0.9470441341400146s),25501
+2026-08-18 09:09:21,sfp_vxvault,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25502
+2026-08-18 09:09:21,sfp_vxvault,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with VXVault.net,25503
+2026-08-18 09:09:21,sfp_spyse,ERROR,You enabled sfp_spyse but did not set an API key!,25504
+2026-08-18 09:09:21,sfp_uceprotect,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25505
+2026-08-18 09:09:21,sfp_uceprotect,DEBUG,Checking UCEPROTECT blacklist: 201.10.10.10.dnsbl-1.uceprotect.net,25506
+2026-08-18 09:09:22,sfp_uceprotect,DEBUG,Checking UCEPROTECT blacklist: 201.10.10.10.dnsbl-2.uceprotect.net,25507
+2026-08-18 09:09:22,sfp_cinsscore,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25508
+2026-08-18 09:09:22,sfp_cinsscore,DEBUG,Checking maliciousness of 10.10.10.201 with cinsscore.com,25509
+2026-08-18 09:09:22,sfp_cybercrimetracker,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25510
+2026-08-18 09:09:22,sfp_cybercrimetracker,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with CyberCrime-Tracker.net,25511
+2026-08-18 09:09:22,sfp_hybrid_analysis,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25512
+2026-08-18 09:09:22,sflib,STATUS,"Fetching (POST): https://www.hybrid-analysis.com/api/v2/search/terms (proxy=None, user-agent=Falcon Sandbox, timeout=15, cookies=None)",25513
+2026-08-18 09:09:22,sflib,STATUS,Fetched https://www.hybrid-analysis.com/api/v2/search/terms (39 bytes in 0.6905906200408936s),25514
+2026-08-18 09:09:23,sfp_hybrid_analysis,ERROR,Failed to retrieve content from Hybrid Analysis: Unexpected response status 404,25515
+2026-08-18 09:09:23,sfp_hybrid_analysis,DEBUG,No information found for10.10.10.201,25516
+2026-08-18 09:09:23,sfp_threatminer,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25517
+2026-08-18 09:09:23,sflib,STATUS,"Fetching (GET): https://api.threatminer.org/v2/host.php?q=10.10.10.201&rt=2 (proxy=None, user-agent=SpiderFoot, timeout=10, cookies=None)",25518
+2026-08-18 09:09:30,sfp_portscan_tcp,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25519
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Scanning 49 ports on 10.10.10.201,25520
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 465 on 10.10.10.201,25521
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5902 on 10.10.10.201,25522
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 111 on 10.10.10.201,25523
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 9000 on 10.10.10.201,25524
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 2638 on 10.10.10.201,25525
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 80 on 10.10.10.201,25526
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 513 on 10.10.10.201,25527
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 389 on 10.10.10.201,25528
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 123 on 10.10.10.201,25529
+2026-08-18 09:09:30,sfp_portscan_tcp,STATUS,Spawning thread to check port: 161 on 10.10.10.201,25530
+2026-08-18 09:09:32,sfp_virustotal,STATUS,Found VirusTotal URL data for 10.10.10.201,25531
+2026-08-18 09:09:32,sfp_zoneh,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25532
+2026-08-18 09:09:32,sfp_botscout,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25533
+2026-08-18 09:09:32,sfp_botscout,STATUS,You enabled sfp_botscout but did not set an API key! Queries will be limited to 100 per day.,25534
+2026-08-18 09:09:32,sflib,STATUS,"Fetching (GET): https://botscout.com/test/?ip=10.10.10.201&key= (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25535
+2026-08-18 09:09:33,sfp__stor_db,DEBUG,Storing an event: MALICIOUS_IPADDR,25536
+2026-08-18 09:09:33,sflib,STATUS,Fetched https://botscout.com/test/?ip=10.10.10.201&key= (6 bytes in 0.5102972984313965s),25537
+2026-08-18 09:09:33,sfp_networksdb,ERROR,You enabled sfp_networksdb but did not set an API key!,25538
+2026-08-18 09:09:33,sfp_cleantalk,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25539
+2026-08-18 09:09:33,sfp_cleantalk,DEBUG,Checking maliciousness of 10.10.10.201 with CleanTalk Spam List,25540
+2026-08-18 09:09:33,sfp_multiproxy,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25541
+2026-08-18 09:09:33,sfp_multiproxy,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with multiproxy.org open proxy list,25542
+2026-08-18 09:09:33,sfp_dnsresolve,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25543
+2026-08-18 09:09:33,sfp_bgpview,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25544
+2026-08-18 09:09:33,sflib,STATUS,"Fetching (GET): https://api.bgpview.io/ip/10.10.10.201 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25545
+2026-08-18 09:09:33,sflib,ERROR,Failed to connect to https://api.bgpview.io/ip/10.10.10.201,25546
+2026-08-18 09:09:34,sflib,ERROR,Failed to connect to https://api.threatminer.org/v2/host.php?q=10.10.10.201&rt=2,25547
+2026-08-18 09:09:34,sfp_threatminer,STATUS,No ThreatMiner info found for 10.10.10.201,25548
+2026-08-18 09:09:34,sfp_threatminer,STATUS,No Passive DNS info for 10.10.10.201,25549
+2026-08-18 09:09:34,sfp_tool_nbtscan,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25550
+2026-08-18 09:09:34,sfp_tool_nbtscan,ERROR,You enabled sfp_tool_nbtscan but did not set a path to the tool!,25551
+2026-08-18 09:09:34,sfp_sslcert,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25552
+2026-08-18 09:09:34,sfp_sslcert,DEBUG,Testing SSL for: 10.10.10.201:443,25553
+2026-08-18 09:09:34,sfp_bgpview,STATUS,No results found for IP address 10.10.10.201,25554
+2026-08-18 09:09:34,sfp_viewdns,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25555
+2026-08-18 09:09:34,sfp_viewdns,ERROR,You enabled sfp_viewdns but did not set an API key!,25556
+2026-08-18 09:09:34,sfp_sorbs,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25557
+2026-08-18 09:09:34,sfp_sorbs,DEBUG,Checking SORBS blacklist: 201.10.10.10.dnsbl.sorbs.net,25558
+2026-08-18 09:09:34,sfp_malwarepatrol,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25559
+2026-08-18 09:09:34,sfp_malwarepatrol,ERROR,You enabled sfp_malwarepatrol but did not provide a receipt ID!,25560
+2026-08-18 09:09:34,sfp_mnemonic,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25561
+2026-08-18 09:09:34,sflib,STATUS,"Fetching (GET): https://api.mnemonic.no/pdns/v3/10.10.10.201?limit=500&offset=0 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=30, cookies=None)",25562
+2026-08-18 09:09:36,sflib,STATUS,Fetched https://api.mnemonic.no/pdns/v3/10.10.10.201?limit=500&offset=0 (43282 bytes in 1.533747911453247s),25563
+2026-08-18 09:09:37,sfp_mnemonic,STATUS,Retrieved 132 of 132 results,25564
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for mntcasa.duckdns.org is too old, skipping.",25565
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-faa20a0d-605b-470f-8f82-df950fa5c523.remotewd.com is too old, skipping.",25566
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for rgvp2f9hbf.dattolocal.net is too old, skipping.",25567
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for mail-gateway-02.proxmox.onprem.tanglednetwork.com is too old, skipping.",25568
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-d4baf8a1-ee2d-4baf-bdc6-e91824ac517b.remotewd.com is too old, skipping.",25569
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for mkz.sh is too old, skipping.",25570
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-09589513-ef2e-47c8-96ca-71c99f803ba8.remotewd.com is too old, skipping.",25571
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-450c44f9-fbd4-4ade-914a-70a7f6c1232b.remotewd.com is too old, skipping.",25572
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for y6p82tvf3x.dattolocal.net is too old, skipping.",25573
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-4f41c361-23b1-4c2f-8b8f-a4939e2103ed.remotewd.com is too old, skipping.",25574
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-5cbdbf7d-a960-41cc-a25e-693218f4bcb0.remotewd.com is too old, skipping.",25575
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-dec8d07f-80b9-4762-af8a-61b8c585950c.remotewd.com is too old, skipping.",25576
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-a2816468-55fe-423c-8135-0f1ac0025810.remotewd.com is too old, skipping.",25577
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-7a3df33a-878f-41c8-9f53-1ac1b0c082f8.remotewd.com is too old, skipping.",25578
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-ee723764-7aec-4798-935d-99ca75d11923.remotewd.com is too old, skipping.",25579
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for rgx9jk3dyc.dattolocal.net is too old, skipping.",25580
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-266c47dc-6ba8-4a86-ab4d-43dba0249674.remotewd.com is too old, skipping.",25581
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bictoryskafka1.r1mvrg.c2.kafka.eu-south-1.amazonaws.com is too old, skipping.",25582
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for appplatform616mskclust.90386y.c4.kafka.us-east-2.amazonaws.com is too old, skipping.",25583
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for wandb-internal.advertising.amazon.dev is too old, skipping.",25584
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-cbfeaeff-fbd6-4f76-85d9-664d977ac158.remotewd.com is too old, skipping.",25585
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for res-in.zbclxuexiao.com is too old, skipping.",25586
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for wxk12-in.zbclxuexiao.com is too old, skipping.",25587
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-6795d68b-2dea-43e5-8854-f179a85e1951.remotewd.com is too old, skipping.",25588
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for ui.ease.produs.ratpritech.com is too old, skipping.",25589
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for api.ease.produs.ratpritech.com is too old, skipping.",25590
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for argocd.home.bandowski.eu is too old, skipping.",25591
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for truescale.bittipaimen.net is too old, skipping.",25592
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for influxdb.home.bandowski.eu is too old, skipping.",25593
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for grafana.home.bandowski.eu is too old, skipping.",25594
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-ad3064ce-6389-43f7-b7b1-f36bd64d1bef.remotewd.com is too old, skipping.",25595
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for tr47683.westeurope1-a.worker.vnet.database.windows.net is too old, skipping.",25596
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-133f24b6-ae21-46c3-b3f7-bcfbbf59c2c4.remotewd.com is too old, skipping.",25597
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for tr47110.westeurope1-a.worker.vnet.database.windows.net is too old, skipping.",25598
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for tr47059.westeurope1-a.worker.vnet.database.windows.net is too old, skipping.",25599
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for vxf8x6fygg.dattolocal.net is too old, skipping.",25600
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for ninjago.cyou is too old, skipping.",25601
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for portainer.vandercruyssen.org is too old, skipping.",25602
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for sbr-01.sblombok.com is too old, skipping.",25603
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for sb-01.sblombok.com is too old, skipping.",25604
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-0397e0b3-00a8-4697-8a2c-39d7034afe92.remotewd.com is too old, skipping.",25605
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for feat--156-qiwi-payout-payments.dyn.sxl.bet is too old, skipping.",25606
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-corm-dev-payments.dyn.sxl.bet is too old, skipping.",25607
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-by-stage-payments.dyn.sxl.bet is too old, skipping.",25608
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-wl-stage-payments.dyn.sxl.bet is too old, skipping.",25609
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-wl-dev-payments.dyn.sxl.bet is too old, skipping.",25610
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-by-dev-payments.dyn.sxl.bet is too old, skipping.",25611
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-kz-dev-payments.dyn.sxl.bet is too old, skipping.",25612
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage-kz-stage-payments.dyn.sxl.bet is too old, skipping.",25613
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for test-dyn-qa-task-12345-custom-message-payments.dyn.sxl.bet is too old, skipping.",25614
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for vault.production.aws.emundo.eu is too old, skipping.",25615
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for 3fbkrbmkqj.dattolocal.net is too old, skipping.",25616
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for rfplatform7281mskcl.31av2k.c4.kafka.eu-central-1.amazonaws.com is too old, skipping.",25617
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for vpc-opensearchcapac-5epjdvcldtwa-3cf5ry4bpzfbdxoa3i6gnoxmri.us-east-1.es.amazonaws.com is too old, skipping.",25618
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for rfplatform6025mskcl.1wcz6d.c4.kafka.eu-central-1.amazonaws.com is too old, skipping.",25619
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for control.vpce-096cf309d31c77718-vfp1p38j.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25620
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for control.vpce-096cf309d31c77718-vfp1p38j-ap-northeast-1c.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25621
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bucket.vpce-096cf309d31c77718-vfp1p38j.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25622
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bucket.vpce-096cf309d31c77718-vfp1p38j-ap-northeast-1c.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25623
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for accesspoint.vpce-096cf309d31c77718-vfp1p38j.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25624
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for accesspoint.vpce-096cf309d31c77718-vfp1p38j-ap-northeast-1c.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25625
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-44f0f9c7-ffcc-4f0f-8bac-c5acbd0b1ee4.remotewd.com is too old, skipping.",25626
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for kong-internal-admin.us-east-1.prod.navistone.net is too old, skipping.",25627
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for prometheus.eks.us-east-1.prod.navistone.net is too old, skipping.",25628
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for grafana.eks.us-east-1.prod.navistone.net is too old, skipping.",25629
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for vault.us-east-1.prod.navistone.net is too old, skipping.",25630
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for consul.us-east-1.prod.navistone.net is too old, skipping.",25631
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for kong-internal-elb-admin.us-east-1.prod.navistone.net is too old, skipping.",25632
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for airflow.prod.navistone.net is too old, skipping.",25633
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for postgres.ops.trddev.io is too old, skipping.",25634
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-9bb100a5-e2e6-4507-a9e5-2fee71db9a20.remotewd.com is too old, skipping.",25635
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for student-tech.hy516.cn is too old, skipping.",25636
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for _.vpce-096cf309d31c77718-vfp1p38j.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25637
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for _.vpce-096cf309d31c77718-vfp1p38j-ap-northeast-1c.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25638
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for www.cloud.n8dns.com is too old, skipping.",25639
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for webmail.cloud.n8dns.com is too old, skipping.",25640
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for mail.cloud.n8dns.com is too old, skipping.",25641
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for admin.cloud.n8dns.com is too old, skipping.",25642
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-f80de70e-3737-4714-8762-753cf2b6e939.remotewd.com is too old, skipping.",25643
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for accesspoint.vpce-05a53832cafe32829-npifza9s.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25644
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for accesspoint.vpce-05a53832cafe32829-npifza9s-eu-west-1a.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25645
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for control.vpce-05a53832cafe32829-npifza9s.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25646
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for control.vpce-05a53832cafe32829-npifza9s-eu-west-1a.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25647
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bucket.vpce-05a53832cafe32829-npifza9s.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25648
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bucket.vpce-05a53832cafe32829-npifza9s-eu-west-1a.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25649
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for _.vpce-05a53832cafe32829-npifza9s-eu-west-1a.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25650
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for _.vpce-05a53832cafe32829-npifza9s.s3.eu-west-1.vpce.amazonaws.com is too old, skipping.",25651
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for rxc8998g6g.dattolocal.net is too old, skipping.",25652
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for control.vpce-00bcb3a4e20be7338-ejiappol.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25653
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for control.vpce-00bcb3a4e20be7338-ejiappol-ap-northeast-1a.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25654
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bucket.vpce-00bcb3a4e20be7338-ejiappol.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25655
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for bucket.vpce-00bcb3a4e20be7338-ejiappol-ap-northeast-1a.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25656
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for accesspoint.vpce-00bcb3a4e20be7338-ejiappol.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25657
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for accesspoint.vpce-00bcb3a4e20be7338-ejiappol-ap-northeast-1a.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25658
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for _.vpce-00bcb3a4e20be7338-ejiappol.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25659
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for _.vpce-00bcb3a4e20be7338-ejiappol-ap-northeast-1a.s3.ap-northeast-1.vpce.amazonaws.com is too old, skipping.",25660
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for tabaco.base2.pt is too old, skipping.",25661
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for pve.wisdod.com is too old, skipping.",25662
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device2377907-55a37091-local.wd2go.com is too old, skipping.",25663
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device848519-3954c57a-local.wd2go.com is too old, skipping.",25664
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device1165303-63077b5b-local.wd2go.com is too old, skipping.",25665
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for stage.ops.clockify.me is too old, skipping.",25666
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for 43516f443df7b812bea33cb6ec9918ff03bb3122.unraid.net is too old, skipping.",25667
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for chrr4b8x29.dattolocal.net is too old, skipping.",25668
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for sebastian.vynsmart.com is too old, skipping.",25669
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device9066637-48a10685-local.wd2go.com is too old, skipping.",25670
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device4907336-2401c337-local.wd2go.com is too old, skipping.",25671
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for api.rosa-poc.intv.p1.openshiftapps.com is too old, skipping.",25672
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for hydra.3cx.co.za is too old, skipping.",25673
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for test-1.2oqvb3.c9.kafka.us-east-1.amazonaws.com is too old, skipping.",25674
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for still-base-7745.spirelan.com is too old, skipping.",25675
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for superserver.net-cc.com is too old, skipping.",25676
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device4170552-4735570b-local.wd2go.com is too old, skipping.",25677
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device3977998-177b367c-local.wd2go.com is too old, skipping.",25678
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device8100865-4d0bda17-local.wd2go.com is too old, skipping.",25679
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device3704236-73140151-local.wd2go.com is too old, skipping.",25680
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-ded1864d-3d17-4617-a1bc-09259a3e451a.remotewd.com is too old, skipping.",25681
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device7921731-0a148ccf-local.wd2go.com is too old, skipping.",25682
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device3508015-755dafb6-local.wd2go.com is too old, skipping.",25683
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device3252100-96167936-local.wd2go.com is too old, skipping.",25684
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device7821007-4b8ab4a9-local.wd2go.com is too old, skipping.",25685
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for local.chdev.org is too old, skipping.",25686
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-c2f2c269-4a34-411c-9e14-5fa2abe9bf15.remotewd.com is too old, skipping.",25687
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device7640167-e9a08baf-local.wd2go.com is too old, skipping.",25688
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-3427ff1b-5c1c-4699-9804-d5ec052fd8e3.remotewd.com is too old, skipping.",25689
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for 2ggfgkjmh4.dattolocal.net is too old, skipping.",25690
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device3026573-90e750aa-local.wd2go.com is too old, skipping.",25691
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for 26xyf9y38y.dattolocal.net is too old, skipping.",25692
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for 86vkk6hrrb.dattolocal.net is too old, skipping.",25693
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for device-local-a8b1932c-cd15-4920-8ca2-ded9f9d418c3.remotewd.com is too old, skipping.",25694
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for www.bnif.com.cn is too old, skipping.",25695
+2026-08-18 09:09:37,sfp_mnemonic,DEBUG,"Record 10.10.10.201 found for ns4.it-d.it is too old, skipping.",25696
+2026-08-18 09:09:37,sflib,STATUS,"Fetching (GET): https://api.mnemonic.no/pdns/v3/10.10.10.201?limit=500&offset=500 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=30, cookies=None)",25697
+2026-08-18 09:09:37,sflib,STATUS,Fetched https://api.mnemonic.no/pdns/v3/10.10.10.201?limit=500&offset=500 (221 bytes in 0.5832571983337402s),25698
+2026-08-18 09:09:38,sfp_mnemonic,STATUS,No results found for 10.10.10.201,25699
+2026-08-18 09:09:38,sfp_mnemonic,STATUS,No passive DNS data found for 10.10.10.201,25700
+2026-08-18 09:09:38,sfp_greensnow,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25701
+2026-08-18 09:09:38,sfp_greensnow,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with greensnow.co,25702
+2026-08-18 09:09:38,sfp_pulsedive,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25703
+2026-08-18 09:09:38,sfp_pulsedive,ERROR,You enabled sfp_pulsedive but did not set an API key!,25704
+2026-08-18 09:09:38,sfp_abstractapi,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25705
+2026-08-18 09:09:38,sfp_abstractapi,ERROR,You enabled sfp_abstractapi but did not set any API keys!,25706
+2026-08-18 09:09:38,sfp_bingsharedip,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25707
+2026-08-18 09:09:38,sfp_bingsharedip,ERROR,You enabled sfp_bingsharedip but did not set a Bing API key!,25708
+2026-08-18 09:09:38,sfp_blocklistde,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25709
+2026-08-18 09:09:38,sfp_blocklistde,DEBUG,Checking maliciousness of 10.10.10.201 (IP_ADDRESS) with blocklist.de,25710
+2026-08-18 09:09:38,sfp_onyphe,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25711
+2026-08-18 09:09:38,sfp_onyphe,ERROR,"You enabled sfp_onyphe, but did not set an API key!",25712
+2026-08-18 09:09:38,sfp_ipapicom,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25713
+2026-08-18 09:09:38,sfp_ipapicom,ERROR,You enabled sfp_ipapicom but did not set an API key!,25714
+2026-08-18 09:09:38,sfp_iknowwhatyoudownload,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25715
+2026-08-18 09:09:38,sfp_iknowwhatyoudownload,ERROR,You enabled sfp_iknowwhatyoudownload but did not set an API key!,25716
+2026-08-18 09:09:38,sfp_intelx,ERROR,You enabled sfp_intelx but did not set an API key and/or base URL!,25717
+2026-08-18 09:09:38,sfp_metadefender,ERROR,You enabled sfp_metadefender but did not set an API key!,25718
+2026-08-18 09:09:38,sfp_spyonweb,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25719
+2026-08-18 09:09:38,sfp_spyonweb,ERROR,You enabled sfp_spyonweb but did not set an API key!,25720
+2026-08-18 09:09:38,sfp_ipinfo,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25721
+2026-08-18 09:09:38,sfp_ipinfo,ERROR,You enabled sfp_ipinfo but did not set an API key!,25722
+2026-08-18 09:09:38,sfp_tool_testsslsh,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25723
+2026-08-18 09:09:38,sfp_tool_testsslsh,ERROR,You enabled sfp_tool_testsslsh but did not set a path to the tool!,25724
+2026-08-18 09:09:38,sfp_securitytrails,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25725
+2026-08-18 09:09:38,sfp_securitytrails,ERROR,You enabled sfp_securitytrails but did not set an API uid/secret!,25726
+2026-08-18 09:09:38,sfp_binaryedge,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25727
+2026-08-18 09:09:38,sfp_binaryedge,ERROR,You enabled sfp_binaryedge but did not set an API key!,25728
+2026-08-18 09:09:38,sfp_leakix,DEBUG,"You enabled sfp_leakix but did not set an API key, results are limited",25729
+2026-08-18 09:09:38,sfp_leakix,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25730
+2026-08-18 09:09:38,sflib,STATUS,"Fetching (GET): https://leakix.net/host/10.10.10.201 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=15, cookies=None)",25731
+2026-08-18 09:09:38,sflib,STATUS,Fetched https://leakix.net/host/10.10.10.201 (17 bytes in 0.28174519538879395s),25732
+2026-08-18 09:09:39,sfp_leakix,ERROR,Failed to retrieve content from LeakIX,25733
+2026-08-18 09:09:39,sfp_leakix,DEBUG,No information found for host 10.10.10.201,25734
+2026-08-18 09:09:39,sfp_ipqualityscore,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25735
+2026-08-18 09:09:39,sfp_ipqualityscore,ERROR,You enabled sfp_ipqualityscore but did not set an API Key!,25736
+2026-08-18 09:09:39,sfp_fsecure_riddler,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25737
+2026-08-18 09:09:39,sfp_fsecure_riddler,ERROR,You enabled sfp_fsecure_riddler but did not set an API username/password!,25738
+2026-08-18 09:09:39,sfp_spamcop,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25739
+2026-08-18 09:09:39,sfp_spamcop,DEBUG,Checking SpamCop blacklist: 201.10.10.10.bl.spamcop.net,25740
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25741
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,"Lookaside max: 10.10.10.192, min: 10.10.10.207",25742
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.192,25743
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.192 failed.,25744
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.193,25745
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.193 failed.,25746
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.194,25747
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.194 failed.,25748
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.195,25749
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.195 failed.,25750
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.196,25751
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.196 failed.,25752
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.197,25753
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.197 failed.,25754
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.198,25755
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.198 failed.,25756
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.199,25757
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.199 failed.,25758
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.200,25759
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.200 failed.,25760
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.201,25761
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.202,25762
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.202 failed.,25763
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.203,25764
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.203 failed.,25765
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.204,25766
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.204 failed.,25767
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.205,25768
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.205 failed.,25769
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.206,25770
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.206 failed.,25771
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Attempting look-aside lookup of: 10.10.10.207,25772
+2026-08-18 09:09:40,sfp_dnsneighbor,DEBUG,Look-aside resolve for 10.10.10.207 failed.,25773
+2026-08-18 09:09:40,sfp_tool_onesixtyone,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25774
+2026-08-18 09:09:40,sfp_tool_onesixtyone,ERROR,You enabled sfp_tool_onesixtyone but did not set a path to the tool!,25775
+2026-08-18 09:09:40,sfp_xforce,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25776
+2026-08-18 09:09:40,sfp_xforce,ERROR,You enabled sfp_xforce but did not set an API key/password!,25777
+2026-08-18 09:09:40,sfp_phishstats,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25778
+2026-08-18 09:09:40,sflib,STATUS,"Fetching (GET): https://phishstats.info:2096/api/phishing?_where=%28ip%2Ceq%2C10.10.10.201%29&_size=1 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=15, cookies=None)",25779
+2026-08-18 09:09:44,sfp_sslcert,STATUS,Unable to SSL-connect to 10.10.10.201 (timed out),25780
+2026-08-18 09:09:44,sfp_robtex,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25781
+2026-08-18 09:09:44,sflib,STATUS,"Fetching (GET): https://freeapi.robtex.com/ipquery/10.10.10.201 (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25782
+2026-08-18 09:09:44,sflib,STATUS,Fetched https://freeapi.robtex.com/ipquery/10.10.10.201 (114 bytes in 0.4118080139160156s),25783
+2026-08-18 09:09:44,sfp__stor_db,DEBUG,Storing an event: RAW_RIR_DATA,25784
+2026-08-18 09:09:45,sfp_robtex,DEBUG,Host ub5hhixg.bybanking.com no longer resolves to 10.10.10.201,25785
+2026-08-18 09:09:45,sfp_customfeed,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25786
+2026-08-18 09:09:45,sfp_customfeed,ERROR,You enabled sfp_customfeed but defined no custom feed URL!,25787
+2026-08-18 09:09:45,sfp_badpackets,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25788
+2026-08-18 09:09:45,sfp_badpackets,ERROR,You enabled sfp_badpackets but did not set an API key!,25789
+2026-08-18 09:09:45,sfp_alienvault,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25790
+2026-08-18 09:09:45,sflib,STATUS,"Fetching (GET): https://otx.alienvault.com/api/v1/indicators/IPv4/10.10.10.201/passive_dns (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25791
+2026-08-18 09:09:45,sflib,ERROR,Failed to connect to https://otx.alienvault.com/api/v1/indicators/IPv4/10.10.10.201/passive_dns,25792
+2026-08-18 09:09:45,sfp_alienvault,STATUS,No Passive DNS info for 10.10.10.201,25793
+2026-08-18 09:09:45,sflib,STATUS,"Fetching (GET): https://otx.alienvault.com/api/v1/indicators/IPv4/10.10.10.201/reputation (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25794
+2026-08-18 09:09:45,sflib,ERROR,Failed to connect to https://otx.alienvault.com/api/v1/indicators/IPv4/10.10.10.201/reputation,25795
+2026-08-18 09:09:45,sfp_wikipediaedits,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25796
+2026-08-18 09:09:45,sflib,STATUS,"Fetching (GET): https://en.wikipedia.org/w/api.php?action=feedcontributions&user=XXX (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25797
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 23 on 10.10.10.201,25798
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 636 on 10.10.10.201,25799
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 22 on 10.10.10.201,25800
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 110 on 10.10.10.201,25801
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 8080 on 10.10.10.201,25802
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 113 on 10.10.10.201,25803
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 992 on 10.10.10.201,25804
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 1080 on 10.10.10.201,25805
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 995 on 10.10.10.201,25806
+2026-08-18 09:09:45,sfp_portscan_tcp,STATUS,Spawning thread to check port: 445 on 10.10.10.201,25807
+2026-08-18 09:09:45,sfp__stor_db,DEBUG,Storing an event: CO_HOSTED_SITE,25808
+2026-08-18 09:09:46,sflib,STATUS,Fetched https://en.wikipedia.org/w/api.php?action=feedcontributions&user=XXX (432 bytes in 0.5086932182312012s),25809
+2026-08-18 09:09:46,sfp_riskiq,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25810
+2026-08-18 09:09:46,sfp_riskiq,ERROR,You enabled sfp_riskiq but did not set an credentials!,25811
+2026-08-18 09:09:46,sfp_ripe,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25812
+2026-08-18 09:09:46,sflib,STATUS,"Fetching (GET): https://stat.ripe.net/data/network-info/data.json?resource=10.10.10.201 (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25813
+2026-08-18 09:09:46,sflib,STATUS,Fetched https://stat.ripe.net/data/network-info/data.json?resource=10.10.10.201 (384 bytes in 0.3644528388977051s),25814
+2026-08-18 09:09:46,sflib,STATUS,"Fetching (GET): https://stat.ripe.net/data/whois/data.json?resource= (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25815
+2026-08-18 09:09:46,sflib,STATUS,Fetched https://stat.ripe.net/data/whois/data.json?resource= (456 bytes in 0.32790541648864746s),25816
+2026-08-18 09:09:46,sfp_ripe,DEBUG,Could not identify BGP AS for ,25817
+2026-08-18 09:09:46,sfp_hosting,DEBUG,"Received event, IP_ADDRESS, from SpiderFoot UI",25818
+2026-08-18 09:09:46,sfp_surbl,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25819
+2026-08-18 09:09:46,sfp_surbl,DEBUG,Checking SURBL blacklist: whatuwant.co.multi.surbl.org,25820
+2026-08-18 09:09:56,sflib,ERROR,Failed to connect to https://phishstats.info:2096/api/phishing?_where=%28ip%2Ceq%2C10.10.10.201%29&_size=1,25821
+2026-08-18 09:09:56,sfp_phishstats,DEBUG,No information found from PhishStats for 10.10.10.201.,25822
+2026-08-18 09:09:56,sfp_abusech,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25823
+2026-08-18 09:09:56,sfp_abusech,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with Abuse.ch URL Haus,25824
+2026-08-18 09:09:56,sfp_virustotal,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25825
+2026-08-18 09:09:56,sflib,STATUS,"Fetching (GET): https://www.virustotal.com/vtapi/v2/domain/report?domain=whatuwant.co&apikey=XXX (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25826
+2026-08-18 09:09:56,sflib,STATUS,Fetched https://www.virustotal.com/vtapi/v2/domain/report?domain=whatuwant.co&apikey=XXX (2846 bytes in 0.5387847423553467s),25827
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 514 on 10.10.10.201,25828
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 119 on 10.10.10.201,25829
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 3306 on 10.10.10.201,25830
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 88 on 10.10.10.201,25831
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 631 on 10.10.10.201,25832
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 138 on 10.10.10.201,25833
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5903 on 10.10.10.201,25834
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 512 on 10.10.10.201,25835
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 179 on 10.10.10.201,25836
+2026-08-18 09:10:01,sfp_portscan_tcp,STATUS,Spawning thread to check port: 1433 on 10.10.10.201,25837
+2026-08-18 09:10:02,sfp_threatcrowd,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25838
+2026-08-18 09:10:02,sflib,STATUS,"Fetching (GET): https://www.threatcrowd.org/searchApi/v2/domain/report/?domain=whatuwant.co (proxy=None, user-agent=SpiderFoot, timeout=5, cookies=None)",25839
+2026-08-18 09:10:02,sflib,ERROR,Failed to connect to https://www.threatcrowd.org/searchApi/v2/domain/report/?domain=whatuwant.co,25840
+2026-08-18 09:10:02,sfp_threatcrowd,STATUS,No ThreatCrowd info found for whatuwant.co,25841
+2026-08-18 09:10:02,sfp_vxvault,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25842
+2026-08-18 09:10:02,sfp_vxvault,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with VXVault.net,25843
+2026-08-18 09:10:02,sfp_cybercrimetracker,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25844
+2026-08-18 09:10:02,sfp_cybercrimetracker,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with CyberCrime-Tracker.net,25845
+2026-08-18 09:10:02,sfp_zoneh,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25846
+2026-08-18 09:10:02,sfp_dnsresolve,DEBUG,"Received event, RAW_RIR_DATA, from sfp_robtex",25847
+2026-08-18 09:10:02,sfp_email,DEBUG,"Received event, RAW_RIR_DATA, from sfp_robtex",25848
+2026-08-18 09:10:02,sfp_names,DEBUG,"Received event, RAW_RIR_DATA, from sfp_robtex",25849
+2026-08-18 09:10:02,sfp_names,DEBUG,Ignoring RAW_RIR_DATA from untrusted module.,25850
+2026-08-18 09:10:02,sfp_cleanbrowsing,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25851
+2026-08-18 09:10:07,sfp_cleanbrowsing,DEBUG,Unable to resolve whatuwant.co,25852
+2026-08-18 09:10:11,sfp_dnsresolve,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25853
+2026-08-18 09:10:11,sfp_dns_for_family,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25854
+2026-08-18 09:10:12,sfp__stor_db,DEBUG,Storing an event: CO_HOSTED_SITE_DOMAIN,25855
+2026-08-18 09:10:12,sfp_cleanbrowsing,DEBUG,Unable to resolve whatuwant.co,25856
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 25 on 10.10.10.201,25857
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 443 on 10.10.10.201,25858
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 137 on 10.10.10.201,25859
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 79 on 10.10.10.201,25860
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 139 on 10.10.10.201,25861
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 8888 on 10.10.10.201,25862
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 515 on 10.10.10.201,25863
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 3389 on 10.10.10.201,25864
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5900 on 10.10.10.201,25865
+2026-08-18 09:10:16,sfp_portscan_tcp,STATUS,Spawning thread to check port: 81 on 10.10.10.201,25866
+2026-08-18 09:10:16,sfp_dns_for_family,DEBUG,Unable to resolve whatuwant.co,25867
+2026-08-18 09:10:16,sfp_botvrij,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25868
+2026-08-18 09:10:16,sfp_botvrij,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with botvrij.eu,25869
+2026-08-18 09:10:16,sfp_crossref,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25870
+2026-08-18 09:10:16,sfp_crossref,DEBUG,Testing URL for affiliation: http://whatuwant.co,25871
+2026-08-18 09:10:16,sflib,STATUS,"Fetching (HEAD): http://whatuwant.co (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25872
+2026-08-18 09:10:17,sfp_cleanbrowsing,DEBUG,Unable to resolve whatuwant.co,25873
+2026-08-18 09:10:17,sfp_cleanbrowsing,DEBUG,whatuwant.co was blocked by CleanBrowsing DNS,25874
+2026-08-18 09:10:17,sfp_stevenblack_hosts,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25875
+2026-08-18 09:10:17,sfp_stevenblack_hosts,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with Steven Black Hosts blocklist,25876
+2026-08-18 09:10:17,sfp_phishtank,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25877
+2026-08-18 09:10:17,sfp_phishtank,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with phishtank.com,25878
+2026-08-18 09:10:17,sfp__stor_db,DEBUG,Storing an event: BLACKLISTED_COHOST,25879
+2026-08-18 09:10:17,sfp__stor_db,DEBUG,Storing an event: MALICIOUS_COHOST,25880
+2026-08-18 09:10:17,sfp_comodo,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25881
+2026-08-18 09:10:22,sflib,ERROR,"Unexpected exception (HTTPConnectionPool(host='whatuwant.co', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='whatuwant.co', port=80) at 0x7fa8c7e80590>, 'Connection to whatuwant.co timed out. (connect timeout=5)'))) occurred fetching (HEAD only) URL: http://whatuwant.co",25882
+2026-08-18 09:10:22,sflib,ERROR,"Traceback (most recent call last):
+  File ""/usr/lib/python3/dist-packages/urllib3/connection.py"", line 204, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File ""/usr/lib/python3/dist-packages/urllib3/util/connection.py"", line 85, in create_connection
+    raise err
+  File ""/usr/lib/python3/dist-packages/urllib3/util/connection.py"", line 73, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""/usr/lib/python3/dist-packages/urllib3/connectionpool.py"", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File ""/usr/lib/python3/dist-packages/urllib3/connectionpool.py"", line 493, in _make_request
+    conn.request(
+    ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<6 lines>...
+        enforce_content_length=enforce_content_length,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File ""/usr/lib/python3/dist-packages/urllib3/connection.py"", line 500, in request
+    self.endheaders()
+    ~~~~~~~~~~~~~~~^^
+  File ""/usr/lib/python3.14/http/client.py"", line 1362, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/lib/python3.14/http/client.py"", line 1122, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File ""/usr/lib/python3.14/http/client.py"", line 1066, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File ""/usr/lib/python3/dist-packages/urllib3/connection.py"", line 331, in connect
+    self.sock = self._new_conn()
+                ~~~~~~~~~~~~~~^^
+  File ""/usr/lib/python3/dist-packages/urllib3/connection.py"", line 213, in _new_conn
+    raise ConnectTimeoutError(
+    ...<2 lines>...
+    ) from e
+urllib3.exceptions.ConnectTimeoutError: (<HTTPConnection(host='whatuwant.co', port=80) at 0x7fa8c7e80590>, 'Connection to whatuwant.co timed out. (connect timeout=5)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File ""/usr/lib/python3/dist-packages/requests/adapters.py"", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File ""/usr/lib/python3/dist-packages/urllib3/connectionpool.py"", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File ""/usr/lib/python3/dist-packages/urllib3/util/retry.py"", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='whatuwant.co', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='whatuwant.co', port=80) at 0x7fa8c7e80590>, 'Connection to whatuwant.co timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/usr/share/spiderfoot/sflib.py"", line 2192, in fetchUrl
+    hdr = self.getSession().head(
+        url,
+    ...<3 lines>...
+        timeout=timeout
+    )
+  File ""/usr/lib/python3/dist-packages/requests/sessions.py"", line 624, in head
+    return self.request(""HEAD"", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/usr/lib/python3/dist-packages/requests/sessions.py"", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/usr/lib/python3/dist-packages/requests/sessions.py"", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File ""/usr/lib/python3/dist-packages/requests/adapters.py"", line 665, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='whatuwant.co', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='whatuwant.co', port=80) at 0x7fa8c7e80590>, 'Connection to whatuwant.co timed out. (connect timeout=5)'))
+",25883
+2026-08-18 09:10:22,sfp_crossref,DEBUG,Ignoring http://whatuwant.co as no data returned,25884
+2026-08-18 09:10:22,sfp_coinblocker,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25885
+2026-08-18 09:10:22,sfp_coinblocker,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with CoinBlocker list,25886
+2026-08-18 09:10:22,sflib,STATUS,"Fetching (GET): https://zerodot1.gitlab.io/CoinBlockerLists/list.txt (proxy=None, user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0, timeout=5, cookies=None)",25887
+2026-08-18 09:10:22,sfp_comodo,DEBUG,Unable to resolve whatuwant.co,25888
+2026-08-18 09:10:22,sfp_yandexdns,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25889
+2026-08-18 09:10:23,sfp__stor_db,DEBUG,Storing an event: BLACKLISTED_COHOST,25890
+2026-08-18 09:10:23,sfp__stor_db,DEBUG,Storing an event: MALICIOUS_COHOST,25891
+2026-08-18 09:10:23,sflib,STATUS,Fetched https://zerodot1.gitlab.io/CoinBlockerLists/list.txt (5589 bytes in 1.6605048179626465s),25892
+2026-08-18 09:10:23,sfp_coinblocker,ERROR,Unexpected HTTP response code 403 from https://zerodot1.gitlab.io/CoinBlockerLists/list.txt,25893
+2026-08-18 09:10:23,sfp_cloudflaredns,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25894
+2026-08-18 09:10:27,sfp_yandexdns,DEBUG,Unable to resolve whatuwant.co,25895
+2026-08-18 09:10:27,sfp_opendns,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25896
+2026-08-18 09:10:28,sfp_cloudflaredns,DEBUG,Unable to resolve whatuwant.co,25897
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 21 on 10.10.10.201,25898
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 993 on 10.10.10.201,25899
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5631 on 10.10.10.201,25900
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 990 on 10.10.10.201,25901
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5901 on 10.10.10.201,25902
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 143 on 10.10.10.201,25903
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 53 on 10.10.10.201,25904
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 5432 on 10.10.10.201,25905
+2026-08-18 09:10:31,sfp_portscan_tcp,STATUS,Spawning thread to check port: 1521 on 10.10.10.201,25906
+2026-08-18 09:10:32,sfp_opendns,DEBUG,Unable to resolve whatuwant.co,25907
+2026-08-18 09:10:32,sfp_quad9,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25908
+2026-08-18 09:10:33,sfp_cloudflaredns,DEBUG,Unable to resolve whatuwant.co,25909
+2026-08-18 09:10:33,sfp_adguard_dns,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25910
+2026-08-18 09:10:38,sfp_quad9,DEBUG,Unable to resolve whatuwant.co,25911
+2026-08-18 09:10:38,sfp_openphish,DEBUG,"Received event, CO_HOSTED_SITE, from sfp_robtex",25912
+2026-08-18 09:10:38,sfp_openphish,DEBUG,Checking maliciousness of whatuwant.co (CO_HOSTED_SITE) with OpenPhish,25913
+2026-08-18 09:10:38,sfp_countryname,DEBUG,"Received event, CO_HOSTED_SITE_DOMAIN, from sfp_dnsresolve",25914
+2026-08-18 09:10:38,sfp_countryname,DEBUG,Found country name: Colombia,25915
+2026-08-18 09:10:38,sfp_whois,DEBUG,"Received event, CO_HOSTED_SITE_DOMAIN, from sfp_dnsresolve",25916
+2026-08-18 09:10:38,sfp_whois,DEBUG,Sending WHOIS query for domain: whatuwant.co,25917
+2026-08-18 09:10:38,sfp__stor_db,DEBUG,Storing an event: BLACKLISTED_COHOST,25918
+2026-08-18 09:10:38,sfp__stor_db,DEBUG,Storing an event: MALICIOUS_COHOST,25919
+2026-08-18 09:10:38,sfp__stor_db,DEBUG,Storing an event: COUNTRY_NAME,25920
+2026-08-18 09:10:38,sfp_adguard_dns,DEBUG,Unable to resolve whatuwant.co,25921
+2026-08-18 09:10:39,sfp__stor_db,DEBUG,Storing an event: CO_HOSTED_SITE_DOMAIN_WHOIS,25922
+2026-08-18 09:10:39,sfp_dnsresolve,DEBUG,"Received event, CO_HOSTED_SITE_DOMAIN_WHOIS, from sfp_whois",25923
+2026-08-18 09:10:39,sfp_email,DEBUG,"Received event, CO_HOSTED_SITE_DOMAIN_WHOIS, from sfp_whois",25924
+2026-08-18 09:10:39,sfp_email,DEBUG,"External domain, so possible affiliate e-mail",25925
+2026-08-18 09:10:39,sfp_email,STATUS,Found e-mail address: registrar-abuse@cloudflare.com,25926
+2026-08-18 09:10:39,sfp_countryname,DEBUG,"Received event, CO_HOSTED_SITE_DOMAIN_WHOIS, from sfp_whois",25927
+2026-08-18 09:10:39,sfp_countryname,DEBUG,"Found no country names associated with CO_HOSTED_SITE_DOMAIN_WHOIS: Domain Name: WHATUWANT.CO
+Registry Domain ID: D1299305-CNIC
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: http://www.cloudflare.com
+Updated Date: 2026-02-28T03:07:02.0Z
+Creation Date: 2011-06-25T13:53:34.0Z
+Registry Expiry Date: 2027-06-24T23:59:59.0Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: SUMMER.NS.CLOUDFLARE.COM
+Name Server: RODRIGO.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-08-18T13:10:39.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited.
+Domain Name: WHATUWANT.CO
+Registry Domain ID: D1299305-CNIC
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: https://www.cloudflare.com
+Updated Date: 2026-04-25T08:06:46Z
+Creation Date: 2011-06-25T13:53:34Z
+Registrar Registration Expiration Date: 2027-06-24T23:59:59Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: clienttransferprohibited https://icann.org/epp#clienttransferprohibited
+Registry Registrant ID:
+Registrant Name: DATA REDACTED
+Registrant Organization: DATA REDACTED
+Registrant Street: DATA REDACTED
+Registrant City: DATA REDACTED
+Registrant State/Province: TX
+Registrant Postal Code: DATA REDACTED
+Registrant Country: US
+Registrant Phone: +1.4153197517
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID:
+Admin Name: DATA REDACTED
+Admin Organization: DATA REDACTED
+Admin Street: DATA REDACTED
+Admin City: DATA REDACTED
+Admin State/Province: DATA REDACTED
+Admin Postal Code: DATA REDACTED
+Admin Country: DATA REDACTED
+Admin Phone: +1.4153197517
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID:
+Tech Name: DATA REDACTED
+Tech Organization: DATA REDACTED
+Tech Street: DATA REDACTED
+Tech City: DATA REDACTED
+Tech State/Province: DATA REDACTED
+Tech Postal Code: DATA REDACTED
+Tech Country: DATA REDACTED
+Tech Phone: +1.4153197517
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 
+Registry Billing ID:
+Billing Name: DATA REDACTED
+Billing Organization: DATA REDACTED
+Billing Street: DATA REDACTED
+Billing City: DATA REDACTED
+Billing State/Province: DATA REDACTED
+Billing Postal Code: DATA REDACTED
+Billing Country: DATA REDACTED
+Billing Phone: +1.4153197517
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Name Server: rodrigo.ns.cloudflare.com
+Name Server: summer.ns.cloudflare.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-08-18T13:10:39Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Cloudflare provides more than 13 million domains with the tools to give their global users a faster, more secure, and more reliable internet experience.
+
+NOTICE:
+
+Data in the Cloudflare Registrar WHOIS database is provided to you by Cloudflare
+under the terms and conditions at https://www.cloudflare.com/domain-registration-agreement/
+
+By submitting this query, you agree to abide by these terms.
+
+Register your domain name at https://www.cloudflare.com/registrar/
+",25928
+2026-08-18 09:10:40,sfp__stor_db,DEBUG,Storing an event: AFFILIATE_EMAILADDR,25929
+2026-08-18 09:10:43,sfp_adguard_dns,DEBUG,Unable to resolve whatuwant.co,25930
+2026-08-18 09:10:48,sflib,STATUS,Running 37 correlation rules.,25931
+2026-08-18 09:10:48,sflib,STATUS,Scan [9554E1C9] completed.,25932
