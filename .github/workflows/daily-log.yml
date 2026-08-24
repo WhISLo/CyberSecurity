@@ -1,0 +1,44 @@
+name: Daily Learning Log
+
+on:
+  schedule:
+    # Запускать каждый день в 16:00 по МСК (13:00 UTC)
+    - cron: '0 13 * * *'
+  # Для ручного запуска (кнопка в интерфейсе)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Create daily log file
+        run: |
+          # Создаём папку, если её нет
+          mkdir -p Journal
+          # Формируем имя файла: ДД-ММ-ГГГГ.md
+          TODAY=$(date +"%d-%m-%Y")
+          FILE="Journal/${TODAY}.md"
+          # Если файл не существует, создаём его с приветствием
+          if [ ! -f "$FILE" ]; then
+            echo "# 📅 ${TODAY} - День обучения" > "$FILE"
+            echo "" >> "$FILE"
+            echo "## Что изучил сегодня:" >> "$FILE"
+            echo "- " >> "$FILE"
+            echo "" >> "$FILE"
+            echo "## Практика:" >> "$FILE"
+            echo "- " >> "$FILE"
+          fi
+          # Всегда добавляем отметку, что день активен (чтобы был коммит)
+          echo "" >> "$FILE"
+          echo "✅ День отмечен $(date '+%H:%M')" >> "$FILE"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Journal/
+          git diff --staged --quiet || git commit -m "Daily log: $(date '+%Y-%m-%d')"
+          git push
